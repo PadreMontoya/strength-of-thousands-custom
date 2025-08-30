@@ -5,6 +5,34 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0] - 2025-08-30
+
+### Added
+- **New Journal: Magaambya Teachers and Staff** - Complete GM-only journal with all faculty and staff NPCs
+- **All Faculty Members**: 10 detailed teacher profiles with teaching styles, personalities, and expertise
+  - Teacher Takulu Ot (Cascade Bearer - Mathematician)
+  - Teacher Lesedi (Cascade Bearer - Extraplanar Scholar)
+  - Teacher Zuma (Emerald Bough - Conspiracy Theorist)
+  - Teacher Koride Ulawa (Rain-Scribe - Naturalist)
+  - Teacher Izem Mezitani (Rain-Scribe - Archaeologist)
+  - Teacher Mafika Ayuwari (Tempest-Sun - Martial Artist)
+  - Teacher Tahenkot (Tempest-Sun - Scholar)
+  - Teacher Ahassunu (Uzunjati - Historian)
+  - Teacher Nhyira (Uzunjati - Playwright)
+  - Teacher Janatimo (Uzunjati Branch Head)
+- **Academy Leadership and Staff**: High-Sun Mage Oyamba, Lumusi Yao, Xhokan, Thema
+- **GM-Only Content**: Journal is set to GM-only visibility for proper campaign management
+
+### Changed
+- Enhanced journals database with comprehensive faculty information
+- Improved organization of NPC content for easier GM reference
+- Added detailed teaching styles and personality traits for all faculty
+
+### Technical
+- New journal entry properly integrated into existing database structure
+- GM-only ownership settings ensure appropriate content visibility
+- Consistent formatting and organization across all journal entries
+
 ## [1.4.0] - 2025-08-30
 
 ### Fixed
