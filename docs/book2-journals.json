@@ -1,0 +1,265 @@
+[
+  {
+    "name": "Magaambya NPCs",
+    "ownership": {
+      "default": 2,
+      "6M4FFhxdKoWoOC9z": 3,
+      "BVtcoqtR5hDV73fr": 2,
+      "Rtjc27Wkzogg0m4w": 2,
+      "QM1wwiuuC4Lkl9dU": 2,
+      "mLpzP30Ezig8iEjr": 2
+    },
+    "pages": [
+      {
+        "name": "Anchor Root (Rain-Scribe)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Anchor Root (Rain-Scribe)</h1><p><strong>N | female | ant gnoll | bonekeeper-in-training</strong></p><p><strong>Branch:</strong> Rain-Scribes<br><strong>Notable Skills:</strong> Nature, Occultism, Stealth, Survival<br><strong>Hobbies:</strong> sand sculptures, raising beetles, musical curation</p><h2>Description</h2><p>Anchor Root is a 3-foot-tall ant gnoll who resembles an aardwolf more than a deadly carnivore. She hails from the small Redridge clan, several weeks' travel south-west from the Magaambya. Her clan has been in decline for several decades, and Anchor Root is the only child with the potential talent to replace Redridge's aging bonekeeper.</p><p>Anchor Root's entire family has placed their hopes on her, leaving her in a constant state of panic. Though she has always had issues with anxiety, the expectations currently placed on her shoulders have left her devastated by even the slightest perceived flaw.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> interrupting herself halfway through a presentation to exclaim \"I'm sorry, I'm boring you\" and running out of the room crying</p><p><strong>Strangest Quirk:</strong> uses a chicken tied to a stick to keep her room free of unwanted bugs</p><p><strong>Common Associates:</strong> Esi (working on music playback magic), Noxolo (scavenging bones), Tzeniwe (stress baking)</p><h2>Role & Abilities</h2><p>She takes her role as bonekeeper-in-training very seriously, always looking for bones of worthy creatures that can be symbolically adopted by her clan to serve as spiritual mentors and protectors. She also has a hobby of anonymously recording music played around the city and working with other students to play it back on campus.</p>",
+          "format": 1
+        },
+        "sort": 100000
+      },
+      {
+        "name": "Chizire (Cascade Bearer)",
+        "type": "text", 
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Chizire (Cascade Bearer)</h1><p><strong>CN | male | catfolk | slacker</strong></p><p><strong>Branch:</strong> Cascade Bearers<br><strong>Notable Skills:</strong> Crafting, Deception, Diplomacy, Nature<br><strong>Hobbies:</strong> brewing, engineering, finding new and exciting ways to avoid work</p><h2>Description</h2><p>Chizire spent most of his youth in Kibwe unable to read due to dyslexia. By the time a visiting scholar recognized his condition, Chizire had already embraced the role of slacker and screw-up that had been thrust upon him. Despite this, his keen ability to teach himself magic and science caught the scholar's eye.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> building a complete moonshine still in his dorm room from scrap</p><p><strong>Strangest Quirk:</strong> always knowing the answer when called on despite visibly not paying attention</p><p><strong>Common Associates:</strong> Anchor Root (brewing experimental elixirs), Mariama (brewing weird liquors), Okoro (gaming group)</p><h2>Role & Abilities</h2><p>Chizire thrives at the Magaambya, though he often uses his intelligence for disruptive jokes, complex pranks, and other hijinks. He infuriates most mentors by refusing to make anything of himself, despite clearly understanding lessons better than many peers. His ultimate goal is to enchant one of Nantambu's 10 pillar landmarks to tell bawdy jokes.</p>",
+          "format": 1
+        },
+        "sort": 200000
+      },
+      {
+        "name": "Esi Djana (Tempest-Sun Mage)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Esi Djana (Tempest-Sun Mage)</h1><p><strong>LG | female | human | ace student</strong></p><p><strong>Branch:</strong> Tempest-Sun Mages<br><strong>Notable Skills:</strong> Arcana, Athletics, Diplomacy, Society<br><strong>Hobbies:</strong> university administration, campus exploration, book printing, book binding, sports, tactical wargames, fashion contests</p><h2>Description</h2><p>Every school has its star students, and Esi Djana is one of them. A Nantambu native, Esi engages the academy with an energy few can match. She can be found organizing study groups, commanding sports teams, researching foreign policy and military defense tactics, and maintaining an active social life.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> once spent 15 straight minutes reciting different synonyms for \"wrong\" to make a point in an argument</p><p><strong>Strangest Quirk:</strong> leaving baubles at magically derived coordinates for others to find</p><p><strong>Common Associates:</strong> Anchor Root (working on musical playback magic), Haibram and Mariama (sparring partners), Okoro (exercise partner), Tzeniwe (babysitting)</p><h2>Role & Abilities</h2><p>Esi is known for being kind, passionate, and genuine, going out of her way to approach shier or more anxious students who seem to have trouble making friends. She's determined to follow in the footsteps of famous Tempest-Sun Mages and make her mark on history.</p>",
+          "format": 1
+        },
+        "sort": 300000
+      },
+      {
+        "name": "Haibram Thodja (Rain-Scribe)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Haibram Thodja (Rain-Scribe)</h1><p><strong>CG | male | dwarf | daredevil</strong></p><p><strong>Branch:</strong> Rain-Scribes<br><strong>Notable Skills:</strong> Arcana, Athletics, Intimidation, Survival<br><strong>Hobbies:</strong> recreational combat, cloud-watching, hang-gliding, pyromania</p><h2>Description</h2><p>Haibram's philosophy in life could be summed up as \"go hard or go home.\" Though on the whole a friendly person, the Mbe'ke dwarf approaches anything resembling a competition with perhaps a little too much enthusiasm. While most of his idiosyncrasies are harmless, others demonstrate a rash impulsiveness.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> jumping off a three-story building to win a game of tag</p><p><strong>Strangest Quirk:</strong> constantly found at the scene of fires that are actually never his fault</p><p><strong>Common Associates:</strong> Chizire (drinking partner), Esi and Mariama (sparring partners)</p><h2>Role & Abilities</h2><p>For those who aren't put off by his wild antics, Haibram can be the highlight of any party. Whether it's rock-climbing, competitive eating, or magical dueling, he approaches everything with boundless energy and enthusiasm.</p>",
+          "format": 1
+        },
+        "sort": 400000
+      },
+      {
+        "name": "Ignaci Canterells (Emerald Bough)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Ignaci Canterells (Emerald Bough)</h1><p><strong>N | male | human | thaumaturge</strong></p><p><strong>Branch:</strong> Emerald Boughs<br><strong>Notable Skills:</strong> Crafting, Society, Stealth, Thievery<br><strong>Hobbies:</strong> cryptography, high fashion, covert explorations</p><h2>Description</h2><p>Born in the colony of Sargava before it became Vidrian, Ignaci earned his parents' disapproval through the company he kept—rebellious youths, disaffected soldiers, and the native Mwangi populace. His colonist family abandoned him during the Vidric Revolution, deliberately stranding the teenager amid violent chaos.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> being easily swayed into bad decisions by attractive men</p><p><strong>Strangest Quirk:</strong> starting his assignments over from the beginning every time he makes a mistake</p><p><strong>Common Associates:</strong> Chizire (brewing experimental elixirs), Noxolo and Tzeniwe (sewing clothing), Okoro (cleaning house in card games, being talked into bad decisions)</p><h2>Role & Abilities</h2><p>Ignaci joined the fight for Vidrian's freedom, driven by hatred of his family and everyone like them. At the Magaambya, he's formed a small group called the Cryptic Circle dedicated to solving mysteries around campus.</p>",
+          "format": 1
+        },
+        "sort": 500000
+      },
+      {
+        "name": "Mariama Keitana (Cascade Bearer)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Mariama Keitana (Cascade Bearer)</h1><p><strong>CN | female | human | chaos magnet</strong></p><p><strong>Branch:</strong> Cascade Bearers<br><strong>Notable Skills:</strong> Deception, Intimidation, Occultism, Religion<br><strong>Hobbies:</strong> combat theory, occult lore, linguistics</p><h2>Description</h2><p>Teachers at the Magaambya tactfully describe Mariama as a student with an \"interesting\" personality. Undeniably a knowledgeable occultist and accomplished spellcaster, she falters between responsibility and unreliability with infuriating frequency. Her attitude flips between unbearable kindness to friends and outright viciousness to foes.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> summoning a devil on accident during a routine lesson</p><p><strong>Strangest Quirk:</strong> knows swear words in almost every language on Golarion</p><p><strong>Common Associates:</strong> Chizire (brewing weird liquors), Okoro (board games), Esi and Haibram (sparring partners)</p><h2>Role & Abilities</h2><p>Mariama lives the kind of life that even storytellers might consider unrealistic, with wildly fluctuating luck and outlandish events frequently plaguing her. When uncanny forces truly are at work, her insights are frighteningly accurate.</p>",
+          "format": 1
+        },
+        "sort": 600000
+      },
+      {
+        "name": "Noxolo (Uzunjati)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Noxolo (Uzunjati)</h1><p><strong>LN | female | human | augur</strong></p><p><strong>Branch:</strong> Uzunjati<br><strong>Notable Skills:</strong> Deception, Medicine, Performance, Religion<br><strong>Hobbies:</strong> dance, high fashion, kite-flying, watching motes of dust float through the air</p><h2>Description</h2><p>Noxolo fled from her home to escape her overbearing family, who had planned out every aspect of her life. Whispers from dead birds and cow bones told her she could find freedom at the Magaambya. What she discovered was a far bigger world than she'd ever dreamt possible, and a chance to unravel the mysteries of the strange whispers she hears.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> pausing to dance and sing about what she's doing when excited</p><p><strong>Strangest Quirk:</strong> always uses murder in her hypothetical examples</p><p><strong>Common Associates:</strong> Anchor Root (scavenging bones), Ignaci and Tzeniwe (discussing fashion)</p><p><strong>Pet:</strong> A bizarre, 2-foot-long creature she calls her \"snabble\" that resembles a fuzzy cross between a crocodile and a bear cub</p><h2>Role & Abilities</h2><p>Though highly prone to spacing out during lectures, Noxolo does her best not to take her acceptance at the Magaambya for granted. She dressed as a man while traveling and has begun experimenting with various fashions and hairstyles at the academy.</p>",
+          "format": 1
+        },
+        "sort": 700000
+      },
+      {
+        "name": "Okoro Obiyo (Uzunjati)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Okoro Obiyo (Uzunjati)</h1><p><strong>NG | male | human | researcher</strong></p><p><strong>Branch:</strong> Uzunjati<br><strong>Notable Skills:</strong> Athletics, Diplomacy, Performance, Occultism<br><strong>Hobbies:</strong> sports, board games, card games, deep research dives into random topics</p><h2>Description</h2><p>A bright-eyed and excitable Bonuwat youth from Senghor, Okoro's love of eclectic research got him shipped off to the Magaambya to hone his talents and spare everyone else in Senghor from his enthusiasm. To Okoro, whatever has caught his interest for the month is the most exciting thing ever, and nothing can pry his attention away from it.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> preparing an 8-hour presentation on a completely different topic than the teacher assigned</p><p><strong>Strangest Quirk:</strong> is scared of butterflies</p><p><strong>Common Associates:</strong> Chizire and Mariama (gaming group), Esi (exercise partner), Ignaci (talking him into bad decisions)</p><h2>Role & Abilities</h2><p>The self-directed nature of the Magaambya's classes has allowed him to pursue his interests more than a typical university. He hosts a biweekly game night where students often compete for favors, magical formulas, or campus secrets.</p>",
+          "format": 1
+        },
+        "sort": 800000
+      },
+      {
+        "name": "Strands-of-Glowing-Dawn Tzeniwe (Emerald Bough)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Strands-of-Glowing-Dawn Tzeniwe (Emerald Bough)</h1><p><strong>NG | female | anadi | dreamweaver</strong></p><p><strong>Branch:</strong> Emerald Boughs<br><strong>Notable Skills:</strong> Crafting, Diplomacy, Performance, Society<br><strong>Hobbies:</strong> bird-watching, baking, high fashion</p><h2>Description</h2><p>A middle-aged woman who stands out among her younger peers, Tzeniwe sought the Magaambya later in life to gain an advanced education in hopes of passing that education down to her children. A shy and awkward person from Nurvatcha, she's painfully aware that many humanoids are terrified of spiders, though she's more forgiving of repulsed reactions than her friends think she should be.</p><h2>Personality</h2><p><strong>Most Well Known For:</strong> having elaborate themed outfits for every class</p><p><strong>Strangest Quirk:</strong> leaving hidden anonymous gifts for people</p><p><strong>Common Associates:</strong> Anchor Root (stress baking), Esi (babysitting), Ignaci and Noxolo (weaving cloth and sewing clothing)</p><p><strong>Children:</strong> Two toddlers named Zachva and Zanvi who constantly pull her out of her shell</p><h2>Role & Abilities</h2><p>Possessing a cooperative and generous nature, Tzeniwe often leaves peers small gifts like chilled tea, delicious snacks, or soft scarves. She's impressed students with her ability to lasso her rambunctious children from over 50 paces.</p>",
+          "format": 1
+        },
+        "sort": 900000
+      },
+      {
+        "name": "--- TEACHERS ---",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teachers of the Magaambya</h1><p>The following are the main teachers the students interact with during their time at the academy.</p>",
+          "format": 1
+        },
+        "sort": 1000000
+      },
+      {
+        "name": "Teacher Takulu Ot (Cascade Bearer - Mathematician)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Takulu Ot</h1><p><strong>Kindly male human mathematician (Cascade Bearer)</strong></p><h2>Description</h2><p>If kindness and gentle guidance were a person, it'd be Takulu Ot. A human man with colorful clothing and warm eyes, he's well known for his heartwarming stories about his wife and endearing passion for anteaters. Takulu is the type of teacher we all wish we had - he'll often be found in Spire Dormitory checking up on his pupils and getting to know them on a personal level.</p><h2>Teaching Style & Research</h2><p>Among the topics he researches and teaches are mathematics, with particular focus on fractal geometry, and pedagogy. He asks students to think metacognitively about how they learn, what it means to know something, and generally challenges the way students think about things. His lessons end up feeling therapeutic in nature and have philosophical life lessons woven into them in such a way that students will think about them for several days.</p><h2>Role in the Academy</h2><p>As one of the primary instructors for new initiates, Teacher Ot handles admissions interviews, orientation, and major ceremonies. He's a recurring friend that students can go to for help, guidance, and all-around support. He emphasizes that \"the price of magic is the responsibility to better the world.\"</p><h2>Personal Details</h2><p>He frequently shares heartwarming stories about his wife and has an endearing passion for anteaters. His gentle, soothing voice and warm demeanor make him a beloved figure among students.</p><h2>Notable Quotes</h2><p>\"Welcome, and a kind hello, new students. You are embarking now on a life of study and service. We see within you intellect, passion, and judgment—in short, the virtues to build upon the strengths of the thousands who have come before you.\"</p>",
+          "format": 1
+        },
+        "sort": 1100000
+      },
+      {
+        "name": "Teacher Koride Ulawa (Rain-Scribe Naturalist)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Koride Ulawa</h1><p><strong>CN female human naturalist (Rain-Scribe)</strong></p><h2>Description</h2><p>Koride Ulawa is a complex figure - at her worst, she's lazy, biting, and cruel. She's quick to respond to perceived slights with quips of her own but slow to attend to her own classes. Her punishments towards students are excessive, embarrassing, and devoid of kindness, but her approach to her own mistakes is forgiving and forgetful.</p><p>However, Koride is not uniquely villainous. She's a very fun teacher who's happy to tell jokes and share in pranks. Furthermore, she's genuinely passionate about bugs and the field of entomology, often keeping many as pets.</p><h2>Teaching Style & Research</h2><p>Koride is well-known for her lackadaisical approach to teaching. However, she does enjoy teaching about bugs and seems to have a particular interest in detritovores. She feels such bugs are underappreciated by many cultures who fail to see the value and necessity of such animals in the web of life. Her favorite research areas are the parts of nature that many people find repulsive: fungus, decay, and insects. She's the Magaambya's most skilled entomologist in generations.</p><h2>Student Opinions</h2><p>Anchor Root, Chizire, and Haibram all like her teaching style, with Anchor Root being one of Koride's favorites (despite being uncomfortable with that \"honor\"). Esi can't stand Koride and wonders why everyone doesn't agree she's awful. Ignaci and Mariama do their best to avoid her.</p><div data-visibility=\"gm\"><h2>GM Notes</h2><p>She's currently investigating unusual insect activity around the Magaambya, having discovered the Vesicant Egg artifact (though she's unaware of its connection to the King of Biting Ants).</p></div>",
+          "format": 1
+        },
+        "sort": 1200000
+      },
+      {
+        "name": "Teacher Zuma (Emerald Bough Conspiracy Theorist)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Zuma</h1><p><strong>CN male half-orc conspiracy theorist (Emerald Bough)</strong></p><h2>Description</h2><p>Zuma is a very eccentric fellow interested in devils and their infiltration into Golarion's governments. However, his study devolves into conspiracy more times than not as he tends to see the machinations of such beings everywhere. He is certainly the professor students look to if they have questions about topics no one else can answer, but he's an unreliable source.</p><p>Due to the gravity of the ideas he comes up with, Zuma tends to be overzealous and \"passionate\" about sharing his conspiracy theories and attempts to involve his students and colleagues in his ramblings.</p><h2>Teaching Style & Expertise</h2><p>Zuma's study into devil-worshipping cults and conspiracies has made him paranoid. As such, his lessons are rambling discussions on how to best protect oneself. However, he is not proposing tinfoil hats, or at least he doesn't stop there. Zuma is an expert in abjuration and defensive magics. He knows how to prevent charm effects, recover lost knowledge, fend off scrying, and more. Due to the copious threats that use beguiling and manipulative magics, Zuma's knowledge is not to be overlooked.</p><p>His classes range from details of eminently useful rituals to utterly nonsensical ramblings, often within the space of only a few minutes.</p><h2>Student Relations</h2><p>He's well liked, although few students (or teachers) have the mental fortitude to interact with him for long. Tzeniwe, normally gracious with everyone, has little patience for Zuma because she sees \"when a web of thoughts is poorly shaped from insufficient foundations.\"</p><h2>Current Projects</h2><p>Zuma is currently testing a process to share magical abilities through special tattoo ink. He has an office in the Elephant Museum among the Uzunjati teachers because of powerful but undetectable defenses he believes Jatembe imbued into the building.</p>",
+          "format": 1
+        },
+        "sort": 1300000
+      },
+      {
+        "name": "Teacher Mafika Ayuwari (Tempest-Sun Mage)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Mafika Ayuwari</h1><p><strong>NG male human martial artist (Tempest-Sun Mage)</strong></p><h2>Description</h2><p>Mafika is a bit like Kronk from The Emperor's New Groove - he's focused on his physical and mental well-being and is an incredible athlete who is likely working out constantly. One of the most famous teachers currently on campus, he recently returned from Tian Xia, where his team fought in the fabled Ruby Phoenix Tournament.</p><h2>Teaching Philosophy & Care</h2><p>Mafika encourages his students to take care of themselves, but not in a toxic gym-rat manner, but more of a gym-bro style. He's concerned when students skip meals and don't sleep well, taking issue with a lot of the stereotypical college student lifestyle. Ever the caring instructor, Mafika is likely to provide healthy food, notably noodles and soup, to his classes and include tips on how to stay fit.</p><h2>Expertise & Classes</h2><p>Mafika's line of expertise is simply martial arts. His magic pertains towards combat and involves a lot of sparring matches. If the school has any major sports, Mafika is surely involved and shamelessly promoting student engagement. This includes non-competitive sports such as rock-climbing, various forms of boating and swimming, dancing, and more. However, his lectures are interrupted in a similar manner to other adventuring professors by anecdotes of his latest escapades.</p><h2>Campus Activities</h2><p>He organizes regular combat tournaments, often with the aid of campus leshys who pilot constructs for students to fight against. These tournaments are popular events that draw crowds of spectators and help students develop their combat skills in a controlled environment.</p>",
+          "format": 1
+        },
+        "sort": 1400000
+      },
+      {
+        "name": "Teacher Lesedi (Cascade Bearer - Extraplanar Scholar)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Lesedi</h1><p><strong>Intimidating female Alijae elf extraplanar scholar (Cascade Bearer)</strong></p><h2>Description</h2><p>An Alijae elf, Lesedi is an intimidating figure despite her small stature. Coming from a culture that formed around fighting demons and other extraplanar threats, she does not accept even the smallest mistakes as they can be lethal when dealing with fiends. To add to her downright terrifying persona, she seems to have a supernatural sense for what students are doing and the pranks they are planning, giving her an ominous almost-prescient air that's sure to leave some students seriously disconcerted.</p><p>However, despite her outward appearance and demon-bone accessories, Lesedi is best described as sweet and kind. She's quick to offer praise moments after eviscerating a student for mispronouncing an incantation.</p><h2>Research & Expertise</h2><p>Lesedi researches all things extraplanar. If anyone wants to travel beyond the Material Plane, she's the leading expert to talk to. She has information not just on how to get there, but how to handle the denizens, what to expect, and all around how to survive. Lesedi does not just study the fiendish end of extraplanars but is more than knowledgeable on celestials, monitors, and all sorts of outsiders.</p><p>Even more than that, she's researching into interstellar expeditions. She was alive for the launch of Lirgen's Glory and is still upset from the tragedy.</p><div data-visibility=\"gm\"><p><strong>GM Note:</strong> Involve her in plot lines when the party heads off to Akiton as she'll surely take great interest in such an event.</p></div>",
+          "format": 1
+        },
+        "sort": 1500000
+      },
+      {
+        "name": "Teacher Izem Mezitani (Rain-Scribe Archaeologist)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Izem Mezitani</h1><p><strong>Winged aasimar human archaeologist (Rain-Scribe)</strong></p><h2>Description</h2><p>Izem is more adventurer than professor. Being an aasimar, he is intelligent to an almost inhuman degree, having several doctorates in several nations. However, he is not usually present at the Magaambya for long, spending most of his time on expeditions and archaeological recoveries. Unlike many other professors, Izem likely has hands-on experience with fighting fiends and other threats to humanity. He's not a retired adventurer that settled down, he is an active adventurer who is likely working on some major quest or recovering from his last one.</p><h2>Personal Details</h2><p>He has a major crush on Tahenkot and is uncharacteristically anxious around her. This small detail juxtaposes very nicely with his otherwise demigod-like capability.</p><h2>Teaching Style</h2><p>Izem's expertise is so incredibly broad that he makes a great teacher for information that can't fit elsewhere. His lectures would be of particular use as they often include first-hand recounts of his escapades. However, he might not be the best professor from an academic standpoint as his lectures would often be derailed by these lengthy stories.</p><div data-visibility=\"gm\"><p><strong>GM Note:</strong> Use him sparingly so as not to overshadow the party's grand adventures. Make sure to have him away on adventures more often than not so he can conveniently not solve the problems for the PCs.</p></div>",
+          "format": 1
+        },
+        "sort": 1600000
+      },
+      {
+        "name": "Teacher Tahenkot (Tempest-Sun Mage Scholar)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Tahenkot</h1><p><strong>Demanding female human scholar (Tempest-Sun Mage)</strong></p><h2>Description</h2><p>Tahenkot is the stereotypical strict teacher. She's harsh and is not afraid to share her criticisms of students. However, she is not mean in her intentions, she just has high expectations. Tahenkot wants her students to be putting their best effort towards learning because she certainly is. While her tactics may be brutal, if the moment arises for genuine compliments and praise, Tahenkot is unparalleled in her effect and her approval may mean a lot to students who want to impress her.</p><h2>Teaching Style</h2><p>Tahenkot's lectures do not have a singular topic that relates them all. Instead, the main thing to focus on is the difficulty. She makes classes with copious homework and covers exceedingly high-level material. However, Tahenkot does take interest in history and flight magic. Regardless of the topic, her lectures often task students to question the validity of information being presented as factual and to think critically about topics before making conclusions.</p><h2>Student Relations</h2><p>Meetings with her will involve some amounts of criticism, but she directs her fury mainly onto students like Haibram, Chizire, and Mariama rather than more sensitive students. Her high standards mean that when she does give genuine compliments, they carry significant weight.</p><div data-visibility=\"gm\"><p><strong>GM Note:</strong> Integrate her with care, so as to not make her hated. Izem Mezitani has a major crush on her.</p></div>",
+          "format": 1
+        },
+        "sort": 1700000
+      },
+      {
+        "name": "Teacher Ahassunu (Uzunjati Historian)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Ahassunu</h1><p><strong>Absentminded female iruxi historian (Uzunjati)</strong></p><h2>Description</h2><p>Ahassunu is characterized by her absent-mindedness and repeated disappearances. Unlike Koride, whose laid-back attitude is attributed to laziness, Ahassunu is a lizardfolk who is so constantly engrossed in thought that she sometimes forgets her duties. In writing papers and researching history, time will slip by her without notice until several hours have passed and she's forgotten all commitments.</p><p>However, she's not absent-minded by any means and, in stark contrast, is very easily able to remember the history of the Mwangi Expanse in excruciatingly great detail. When she is able to discuss her favorite topics, she does so with gusto and infectious enthusiasm.</p><h2>Teaching & Research</h2><p>Ahassunu is deeply interested in the history of other cultures. Her lectures would involve long discussions on the developments of various nations, cities, and peoples in the Mwangi Expanse and beyond. As such, this lizardfolk is likely incredibly multilingual and, if any students are in one of her language classes, will exclusively speak to them in that language. She will also be able to greet and converse with students in their first languages with the efficacy of a native speaker.</p>",
+          "format": 1
+        },
+        "sort": 1800000
+      },
+      {
+        "name": "Teacher Nhyira (Uzunjati Playwright)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Nhyira</h1><p><strong>Genderfluid elf playwright and writer (Uzunjati)</strong></p><h2>Description</h2><p>Nhyira is well known as the Magaambya's main playwright and writer. She's perhaps the most literarily inclined professor at the school and is often found partaking in Nantambu's theaters as both audience member, actor, and director. In addition, she's known for being biting towards students she feels are slacking, preferring sarcastic retorts rather than outright shouting.</p><h2>Teaching Style</h2><p>Nhyira, being a playwright and writer, writes her lectures to feel like mini-plays. She wants her students to experience history and as such makes them reenact crucial sieges, forbidden love between nobles, and monumental political speeches. Her classes tend to employ lots of writing assignments and really focus on blurring the line between literature and history.</p><h2>Student Relations</h2><p>If there are any bards in the group, she's by far the best person to get inspiration from and talk to about their next performance. She has high standards and isn't afraid to use wit and sarcasm to motivate underperforming students.</p><p><strong>Note:</strong> Nhyira is genderfluid and will express herself differently over the course of the adventure.</p>",
+          "format": 1
+        },
+        "sort": 1900000
+      },
+      {
+        "name": "Teacher Janatimo (Uzunjati Branch Head)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Teacher Janatimo</h1><p><strong>Itinerant male half-elf storyteller (Uzunjati Branch Head)</strong></p><h2>Description</h2><p>Janatimo is the current head of the Uzunjati branch and as such is a manifestation of their ideals. He's very kind and often keen to hear stories that students have and come up with. He's a listener, not a speaker, but can certainly spin a tale when necessary.</p><h2>Teaching Philosophy</h2><p>Janatimo has a way of making students question what they hear and how they hear it, encouraging everyone to dig deeper into the stories they hear. As the branch head, he embodies the Uzunjati focus on expression through art and storytelling, as well as philosophical questions about how language affects thought and how the telling of history changes over time and across cultures.</p><h2>Role</h2><p>As head of the Uzunjati branch, he oversees the most artistic branch of scholarship in the Magaambya - the branch of playwrights, writers, artists, historians, and diplomats.</p>",
+          "format": 1
+        },
+        "sort": 2000000
+      },
+      {
+        "name": "--- OTHER STAFF ---",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Other Important Staff Members</h1><p>Beyond the teachers, several other staff members play important roles in daily life at the Magaambya.</p>",
+          "format": 1
+        },
+        "sort": 2100000
+      },
+      {
+        "name": "Lumusi Yao (Head Cook)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Lumusi Yao</h1><p><strong>NG female human chef (Head Cook)</strong></p><h2>Description</h2><p>Lumusi Yao is a kindly chef who cares about the health of the Magaambya. She makes a point of coming out to greet new students and welcoming them to the dining hall, which she considers her domain. She notes that students receive two meals every day and that the dining hall is open from sunrise until two hours after sunset.</p><h2>Role</h2><p>She is nearly constantly cooking, as she does have to feed the whole school, and is rarely seen away from the kitchen. The head cook takes great pride in providing nutritious and delicious meals for the entire academy community.</p><h2>Personality</h2><p>Warm and welcoming, she treats the dining hall as her personal domain and takes personal interest in making sure students are well-fed and healthy.</p>",
+          "format": 1
+        },
+        "sort": 2200000
+      },
+      {
+        "name": "Xhokan (Quartermaster)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Xhokan</h1><p><strong>Meticulous quartermaster</strong></p><h2>Description</h2><p>Xhokan is incredibly organized and meticulous. He knows everything coming into his store and going out. He'll have records about where it came from, how long he's had it, what quality it is, any and all hazards related to it, and all around too much information for most students.</p><h2>Role</h2><p>As the academy's quartermaster, he manages supplies and equipment for students and faculty. His attention to detail is legendary, and he maintains comprehensive records of all inventory.</p><h2>Personality</h2><p>Extremely detail-oriented and organized, sometimes to a fault. Students may find his thoroughness overwhelming, but his knowledge is invaluable when you need specific information about supplies or equipment.</p>",
+          "format": 1
+        },
+        "sort": 2300000
+      },
+      {
+        "name": "Thema (Senior Landscaper)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>Thema</h1><p><strong>CG female elf gardener (Senior Landscaper)</strong></p><h2>Description</h2><p>Thema is the most senior landscaper in the Magaambya. She likely takes care of the leshy gardens and shifting greenhouse. She discourages the leshys from ranging far from their patch of overgrown land because they have a tendency to cause mischief.</p><h2>Role</h2><p>As the chief groundskeeper, she manages the academy's extensive gardens and green spaces, including the specialized areas where magical plants and leshys reside.</p><h2>Personality</h2><p>Patient and nurturing with both plants and the magical creatures under her care, though she maintains firm boundaries to prevent the leshys from causing too much trouble around campus.</p>",
+          "format": 1
+        },
+        "sort": 2400000
+      },
+      {
+        "name": "High-Sun Mage Oyamba (Academy Leader)",
+        "type": "text",
+        "title": {"show": true, "level": 1},
+        "text": {
+          "content": "<h1>High-Sun Mage Oyamba</h1><p><strong>Academy Leader</strong></p><h2>Description</h2><p>High-Sun Mage Oyamba is the Magaambya's current leader. What characterization is available suggests he's graceful and charismatic, befitting his position as head of the world's oldest magical academy.</p><h2>Role</h2><p>As the highest-ranking official at the Magaambya, he oversees the academy's operations and serves as the ultimate authority on academic and administrative matters.</p><div data-visibility=\"gm\"><p><strong>GM Note:</strong> While he plays a significant role in later books, he is never given too much screen time and serves largely as a quest-giver during the early adventures.</p></div>",
+          "format": 1
+        },
+        "sort": 2500000
+      }
+    ]
+  }
+]

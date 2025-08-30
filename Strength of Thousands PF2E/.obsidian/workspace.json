@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4a9f24c7adbb1b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "065212779cf64965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fb1ed5643a19a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Anchor Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anchor Root"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89b3a0dff98b9c07",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e29508ad9786edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dcdce0245208568",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b918f5b0b2fc9ee1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d9477e59c4f2697",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eab56d5966d3cbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd9af19665fe55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ba361c16227216",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Anchor Root.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Anchor Root"
+            }
+          },
+          {
+            "id": "488505cdda8160cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Table of Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Table of Contents"
+            }
+          },
+          {
+            "id": "d49b890e88734a6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd815880a42aed7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Table of Contents.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Table of Contents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f8fb1ed5643a19a7",
+  "lastOpenFiles": [
+    "NPCs/Chizire.md",
+    "NPCs/Esi Djana.md",
+    "Letters/Quest Letter Summary.md",
+    "Letters/Letter to Mazludeh.md",
+    "Letters/Letter to Nethys.md",
+    "Letters/Letter to Gozreh.md",
+    "Letters/Complaint Letter to Magaambyan Parcel Deliverers.md",
+    "Letters/Parcel to Fisherman Kemi.md",
+    "Letters/Parcel to Farmer Adunni.md",
+    "Letters/Parcel to Mubasu.md",
+    "Letters/Parcel to Chukwu.md",
+    "Letters/Unclear Letter 5.md",
+    "Letters/Unclear Letter 4.md",
+    "Letters/Unclear Letter 3.md",
+    "Letters/Unclear Letter 2.md",
+    "Letters/Unclear Letter 1.md",
+    "Letters/Letter to Jatau.md",
+    "Letters/Letter to Musubu.md",
+    "Letters/Letter to Ige.md",
+    "Letters/Letter to Chinasa.md",
+    "Letters",
+    "Locations/Magaambya Campus.md",
+    "Locations",
+    "NPCs/Anchor Root.md",
+    "NPCs/Noxolo.md",
+    "NPCs/Okoro Obiyo.md",
+    "NPCs/Strands-of-Glowing-Dawn Tzeniwe.md",
+    "NPCs/Takulu Ot.md",
+    "Data/PZO90169E.txt",
+    "Data/PZO90169E Interactive Maps.txt",
+    "Data/PZO90169 092-096 Backmatter.txt",
+    "Data/PZO90169 072-091 Toolbox.txt",
+    "Data/PZO90169 060-065 Life in the Academy.txt",
+    "Data/PZO90169 066-071 Students of the Magaambya.txt",
+    "Data/PZO90169 001 Frontmatter.txt",
+    "Data/PZO90169 000 Cover.txt"
+  ]
+}

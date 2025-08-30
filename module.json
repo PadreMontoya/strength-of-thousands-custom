@@ -1,0 +1,57 @@
+{
+  "id": "strength-of-thousands-custom",
+  "title": "Strength of Thousands - Custom Content",
+  "description": "Custom content for the Strength of Thousands Adventure Path, including NPCs, journals, and friendship beads for Book 2: Spoken on the Song Wind.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Anthony Gill",
+      "discord": "PadreMontoya"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0"
+        }
+      }
+    ]
+  },
+  "esmodules": ["scripts/module-helper.js"],
+  "styles": [],
+  "packs": [
+    {
+      "name": "journals",
+      "label": "Strength of Thousands Journals",
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items",
+      "label": "Strength of Thousands Items",
+      "path": "packs/items.db", 
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/PadreMontoya/strength-of-thousands-custom",
+  "manifest": "https://github.com/PadreMontoya/strength-of-thousands-custom/releases/latest/download/module.json",
+  "download": "https://github.com/PadreMontoya/strength-of-thousands-custom/releases/latest/download/strength-of-thousands-custom.zip",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "changelog": "CHANGELOG.md"
+}

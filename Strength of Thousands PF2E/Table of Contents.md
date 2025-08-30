@@ -1,0 +1,1 @@
+This Obsidian Vault is designed to manage DM notes for the Strength of Thousands adventure path for Pathfinder 2E

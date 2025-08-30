@@ -1,0 +1,1979 @@
+=== PAGE 1 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897475
+26897475
+26897475
+4651661
+4651661
+4651661
+72
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897475
+26897475
+26897475
+4651661
+4651661
+4651661
+
+=== PAGE 2 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897476
+26897476
+26897476
+4651662
+4651662
+4651662
+73
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+As the oldest magical school in the Inner Sea region, 
+the Magaambya boasts a wide collection of powerful 
+items and unusual spells. Unlike many of its academic 
+counterparts on the continent of Avistan, the 
+Magaambya also offers a stipend to its students instead 
+of requiring tuition fees. Even the newest Magaambyan 
+initiate can usually afford to commission a magical 
+item or purchase a spell that catches their interest. 
+This support helps contribute to the 
+Magaambya’s diversity of thought 
+and allows it to remain at the 
+forefront of magical research. 
+The following new rules 
+options are available to 
+the heroes in their role as 
+students of the Magaambya, 
+including uncommon rules 
+they might uncover by deepening 
+their relationships with other 
+students at the school.
+Magical Masks
+One of the benefits granted to full-fledged Attendants 
+is the right to wear a Magaambyan mask, or to 
+have their personal mask acknowledged by the 
+Magaambya. Tradition dictates that these creations 
+be carved into the shape of an animal. As a mage 
+continues to wear the mask, the object gradually 
+gains an “imprint” of its owner’s true spiritual face. In 
+addition to forming their masks into familiars ( Lost 
+Omens Character Guide  101), Magaambyans often 
+place useful enchantments on their masks to aid them 
+in their more dangerous ventures.
+GOZ MASK ITEM 2+
+UNCOMMON INVESTED MAGICAL TRANSMUTATION
+Usage worn mask; Bulk —
+Originally designed by a fanatical sect of Gozren priests, 
+goz masks  were designed to help navigate the area 
+around the Eye of Abendego. The masks couldn’t contend 
+with the might of the storm, but they remain in use by 
+people all around the Mwangi Expanse. These masks 
+are typically made of wood and crafted to sport round, 
+exaggerated features. 
+Activate [one-action] Interact; Frequency 
+once per day; Effect You ignore 
+concealment caused by fog, smoke, 
+and other obscuring vapors for 1 
+minute. 
+Type goz mask; Level 2; Price 30 gp
+Type greater goz mask; Level 6; Price 
+240 gp
+The effect lasts for 10 minutes.
+Type major goz mask ; Level 12; Price 
+1,900 gp
+The major goz mask  gives you darkvision and 
+allows you to ignore all concealment from any 
+environmental effects for 1 hour.
+HERD MASK ITEM 6
+UNCOMMON CONJURATION INVESTED MAGICAL TELEPORTATION
+Price 210 gp
+Usage worn mask; Bulk —
+All herd masks are linked to at least one other herd mask 
+and are usually sold in sets of multiple masks. Linked herd 
+masks look similar to one another, with only the slightest 
+of differences to tell them apart.
+Activate [two-actions] envision; Frequency once per day; Effect You 
+swap locations with another creature wearing a linked 
+herd mask  within 100 feet. If you and the creature 
+you swapped with are disguised as each other, other 
+creatures gain an immediate Perception check against 
+the lower of your or the other wearer’s Deception DCs to 
+Impersonate each other. On a failure, they don’t realize 
+the swap occurred. 
+Craft Requirements  Supply a casting of dimension door . 
+You can link a herd mask you create to another herd mask 
+in your possession when you finish crafting it, which 
+causes it to be linked to the chosen mask as well as all 
+other herd masks that are also linked to the chosen mask.
+Adventure 
+Toolbox
+Herd Mask
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897476
+26897476
+26897476
+4651662
+4651662
+4651662
+
+=== PAGE 3 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897477
+26897477
+26897477
+4651663
+4651663
+4651663
+74
+MASK OF THE CURSED EYE  ITEM 8
+UNCOMMON INVESTED MAGICAL NECROMANCY
+Price 475 gp 
+Usage worn mask; Bulk —
+These masks are always decorated with at 
+least one wide, staring eye. 
+The first time each day a creature 
+on your plane that you can’t 
+perceive targets you with a 
+divination spell, the creature must 
+attempt a DC 24 Will save. This 
+effect is automatic and does not 
+require you to Activate the item.
+Critical Success The creature is 
+unaffected.
+Success The creature is unaffected. 
+You know you’ve been targeted 
+with a divination spell, but the mask 
+gives you no additional information. 
+Failure The creature is sickened 1 and 
+dazzled for 1 minute. You know you’ve 
+been targeted with a divination spell, 
+but the mask gives you no additional 
+information.
+Critical Failure The creature is sickened 2 and dazzled for 
+10 minutes, and the spell is disrupted. You gain a brief 
+mental glimpse of the triggering creature and learn its 
+approximate distance and direction.
+MASK OF MERCY  ITEM 4
+UNCOMMON FORTUNE INVESTED MAGICAL NECROMANCY
+Price 100 gp
+Usage worn mask; Bulk —
+This porcelain or alabaster mask portrays an angelic 
+visage of kindness and mercy.
+Activate [free-action] envision (fortune); Frequency once 
+per day; Trigger You are about to roll a 
+variable number of Hit Points you restore 
+from an action with the healing 
+trait; Effect Roll twice to 
+determine the number of Hit 
+Points you restore and take 
+the higher result.
+PSYCHOPOMP MASK  ITEM 1
+UNCOMMON INVESTED MAGICAL NECROMANCY
+Price 5 gp
+Usage worn mask; Bulk —
+These minor magic items are painted to resemble your face, 
+or some metaphorical depiction thereof, to encourage the 
+ushers of death to take the mask in your place. If you begin 
+your turn with a dying value of 3 or greater, instead of 
+making your recovery check, you lose the dying condition 
+but remain unconscious at 0 Hit Points. The mask then 
+cracks in half and is destroyed. The psychopomps won’t be 
+so easily fooled again—you are temporarily immune to the 
+effects of any psychopomp mask for 1 year.
+RHINOCEROS MASK  ITEM 4+
+UNCOMMON INVESTED MAGICAL TRANSMUTATION
+Usage worn mask; Bulk —
+Covered with thick armor and bearing 
+a thicker horn, this face mask grants 
+you increased momentum. If you Stride 
+at least 10 feet, your next melee Strike 
+before the end of your turn ignores the 
+Hardness of objects with a Hardness of 
+5 or less. If the object has more than Hardness 
+5, the mask grants no benefit.
+Type rhinoceros mask; Level 4; Price 90 gp
+Type greater rhinoceros mask ; Level 8; Price 
+425 gp
+Your melee Strikes ignore the Hardness of 
+objects with a Hardness of 10 or less.
+SHAPESPEAK MASK  ITEM 4
+UNCOMMON INVESTED MAGICAL TRANSMUTATION
+Price 80 gp 
+Usage worn mask; Bulk —
+This simple wooden mask is carved into the shape of an 
+animal, usually tailored to a species of beast that 
+the user favors. While wearing this mask, 
+you can speak even when polymorphed 
+into an animal. The shapespeak mask 
+does not otherwise remove any 
+limitations, such as the inability to cast 
+spells when transformed.
+SKITTERING MASK  ITEM 2+
+UNCOMMON INVESTED MAGICAL TRANSMUTATION
+Usage worn mask; Bulk 1
+This carved wooden full-head mask sports several 
+holes along each side of the face. The first time each 
+day that you begin your turn unconscious and within 
+25 feet of an enemy, metallic insect legs 
+emerge from the holes in the mask and 
+Step 5 feet away from the nearest enemy, 
+dragging your body along with the mask. If more than 
+one enemy is equidistant, the mask Steps away from one 
+of them at random. The mask possesses no special senses 
+and does not react to hidden or undetected enemies, nor 
+can it distinguish that a creature not acting openly hostile 
+is an enemy.
+Type skittering mask; Level 2; Price 30 gp
+Type greater skittering mask; Level 8; Price 500 gp
+The mask Steps 15 feet instead of 5 feet, and for 1 minute, 
+Mask of the Cursed Eye
+Shapespeak Mask
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897477
+26897477
+26897477
+4651663
+4651663
+4651663
+
+=== PAGE 4 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897478
+26897478
+26897478
+4651664
+4651664
+4651664
+75
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+each time you begin your turn unconscious and within 25 
+feet of an enemy, the mask Steps 15 feet away from the 
+nearest enemy again. An ally can signal the mask with 
+a single action, which has the auditory and concentrate 
+traits. If the mask hears the signal, it attempts to move 
+you towards that ally when it Steps away from the 
+nearest enemy.
+TLIL MASK ITEM 5+
+UNCOMMON INVESTED MAGICAL TRANSMUTATION
+Usage worn mask; Bulk L
+Colorful, beaded tlil masks  are most commonly found on 
+the distant continent of Arcadia, but trade between the 
+two regions means that they can be found in the Mwangi 
+Expanse as curiosities. These masks usually bear floral 
+patterns and attune your senses to plants of all varieties.
+Activate [one-action] envision; Frequency once per day; Effect 
+Your vision up to 60 feet sees through small amounts 
+of living plant matter as though it were transparent. 
+While this effect is active, creatures can’t be concealed 
+from you due to living plants, such as small trees, 
+vines, and grass. This also prevents them from Hiding 
+or Sneaking past you using only living plants for 
+concealment or cover. Other than the inability to use 
+the cover to Hide or Sneak, this ability doesn’t prevent 
+plants from providing cover to creatures or blocking 
+line of effect. It also doesn’t allow you to see through 
+dead plant matter, such as the wooden walls of a 
+building, or thick plant matter, such as the walls of a 
+dungeon built entirely inside an enormous living tree. 
+The effect lasts for 1 minute.
+Type tlil mask; Level 5; Price 30 gp
+Type greater tlil mask; Level 9; Price 240 gp
+The effect lasts for 10 minutes.
+Specialty Magic
+Every student at the Magaambya has their own 
+unique talents, and one purpose of the school is 
+to allow students to discover these skills and hone 
+them on their own terms. The following magical 
+and alchemical options were all developed by the 
+Magaambyan student NPCs. Heroes who befriend 
+the relevant student (as explained on page 67) 
+receive access to the uncommon option that the 
+student knows.
+ALCHEMICAL ITEM
+Ignaci Canterells maintains a devotion to alchemy in 
+his spare time. A hero who befriends Ignaci might 
+be able to convince him to share the formula for his 
+special ink, inspired by a famous Chelaxian play 
+in which a scheming murderer hides poison on the 
+pages of a book.
+FORGETFUL INK  ITEM 6
+UNCOMMON ALCHEMICAL CONSUMABLE CONTACT POISON
+Price 32 gp 
+Usage held in 2 hands; Bulk L
+Activate [one-action] Interact
+Used to write secret messages, a single dose of forgetful 
+ink is enough to pen a page of text, often with flourishes 
+extending to the page’s edges. Anyone handling the page 
+is exposed to the poison. This includes casual reading, 
+unless the reader specifically takes precautions not to 
+physically touch it. Unlike other poisons, forgetful ink 
+retains its potency for one year, regardless of the number 
+of victims exposed.
+Saving Throw DC 20 Fortitude (secret); Onset 1 minute; 
+Stage 1 The reader forgets the contents of the writing, 
+recalling it as blank or as inconsequential text.
+LESSON
+Most people don’t trust Mariama Keita’s erratic 
+magic, but no one can deny that it’s as unique as she 
+is. A witch who befriends Mariama can select the 
+lesson of calamity when a feat or other effect grants 
+a basic lesson. 
+Lesson of Calamity (Uncommon):  You gain the 
+stumbling curse hex, and your familiar learns ill omen 
+(Advanced Player’s Guide 221).
+STUMBLING CURSE  FOCUS 1
+UNCOMMON CURSE HEX TRANSMUTATION WITCH
+Cast [one-action] somatic
+Range 60 feet; Targets 1 creature
+Saving Throw Reflex; Duration sustained up to 1 minute
+With a twist of a finger, you send a creature careening on 
+a haphazard trajectory. The target must attempt a Reflex 
+save.
+Critical Success  The target is unaffected.
+Success The target takes a –2 status penalty to Athletics 
+and Acrobatics checks.
+Failure As success, and each time the target Strides, it uses 
+the first 5 feet of movement of the Stride to move 5 feet 
+in a random direction (this is forced movement). This has 
+no effect on a creature with only 5 feet of movement.
+Critical Failure As failure, except you control the direction 
+of the target’s first 5 feet of movement of the Stride.
+MAGIC ITEM
+By persuading the spirit of a bone to listen and repeat, 
+Anchor Root has enchanted this skeletal charm to 
+record and play back sounds. Anchor Root typically 
+uses her odd bone charms to record music, but more 
+conniving minds might have other uses for them. A hero 
+who befriends Anchor Root could receive (or learn how 
+to make) the following magic item.
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897478
+26897478
+26897478
+4651664
+4651664
+4651664
+
+=== PAGE 5 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897479
+26897479
+26897479
+4651665
+4651665
+4651665
+76
+RHYTHM BONE  ITEM 1
+UNCOMMON AUDITORY MAGICAL
+Usage held in 1 hand; Bulk L
+This small, enchanted bone (most often a jaw) is usually 
+capped with metal at its ends. It’s activated by striking 
+it against a hard surface.
+Activate  [one-action] Interact; Effect  The bone begins recording 
+the next 1 minute of ambient sounds (including speech) 
+that require a DC 15 or lower Perception check to hear. 
+The bone’s recording doesn’t copy magical auditory 
+effects, such as those of spellcasting, a harpy’s song, 
+or a banshee’s wail. Once the rhythm bone  has been 
+activated in this way, it retains the recorded sound 
+for the rest of its existence and can’t be activated 
+this way again.
+Activate [one-action] Interact; 
+Effect The bone 
+replays its recorded sounds.
+Type rhythm bone; Level 1; Price 8 gp
+Type greater rhythm bone ; Level 4; 
+Price 64 gp
+The magical bone records the next 10 minutes of ambient 
+sounds that require a DC 20 or lower Perception check 
+to hear.
+Craft Requirements Supply a casting of ghost sound.
+NEW SPELLS
+Many students at the Magaambya have researched or 
+independently developed unusual spells. 
+Chizire
+Chizire rarely uses this spell for anything other than 
+his own convenience. 
+VERMINOUS LURE  SPELL 1
+UNCOMMON OLFACTORY TRANSMUTATION
+Traditions primal
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 creature or object
+Duration 10 minutes
+Upon casting, the target emits a musk that’s captivating 
+to certain animals. Tiny animals and animal swarms of 
+any size within range must attempt a Will save. On a 
+failure, non-hostile animals or animal swarms try to touch 
+the target. If hostile, such creatures choose to attack 
+the target instead of other foes, if able to do so without 
+spending additional actions or exposing themselves to 
+additional danger. 
+Verminous lure  doesn’t change animals’ attitudes 
+towards the target and is easily overridden by more 
+direct control, such as the Command an Animal action. 
+Animals with imprecise sense can use their scent as a 
+precise sense against the target. 
+Esi Djana
+Esi has learned to channel the momentum of her 
+actions into further success, though disrupting the 
+flow becomes unusually jarring as a consequence. 
+IMPECCABLE FLOW  SPELL 2
+UNCOMMON DIVINATION LAWFUL
+Traditions arcane, divine
+Cast [two-actions] somatic, verbal
+Duration 1 minute
+You attune yourself to an underlying 
+cosmic order to the world. While you 
+remain in tune with this power, you gain a 
++1 status bonus to Perception checks, saving 
+throws, and skill checks. If you critically fail 
+any check while under the effects of this spell, 
+the bonus ends and you instead have a –1 status 
+penalty to all checks for the remaining duration.
+Heightened (5th) The status bonus increases to 
++2.
+Heightened (8th) The status bonus increases to +3.
+Haibram Thodja
+Never one for fine control, Haibrim’s air magic bursts 
+forth from his body at wild, unpredictable angles. 
+AIRBURST SPELL 1
+UNCOMMON AIR EVOCATION
+Traditions arcane, primal
+Cast [one-action] verbal
+Area 5-foot emanation; Targets all creatures and 
+unattended objects in the area
+Saving Throw Fortitude
+A blast of wind wildly pushes everything nearby. 
+Unattended objects of 1 Bulk or less are pushed 5 feet 
+away from you. Large or smaller creatures must attempt 
+a Fortitude save.
+Critical Success The creature is unaffected.
+Success The creature takes a –2 status penalty to checks 
+made during its reactions until the end of your turn.
+Failure As success, and the creature is pushed 5 feet away 
+from you.
+Critical Failure The creature is pushed 5 feet away from 
+you and can’t use reactions until the end of your turn.
+Heightened (4th) Increase the area to a 10-foot emanation 
+and increase the distance objects and creatures are pushed 
+to 10 feet.
+Noxolo
+In contrast to her lively personality, Noxolo derives 
+most of her insights from the dead. This spell imparts 
+the macabre perspective that Noxolo experiences from 
+time to time.
+Rhythm Bone
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897479
+26897479
+26897479
+4651665
+4651665
+4651665
+
+=== PAGE 6 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897480
+26897480
+26897480
+4651666
+4651666
+4651666
+77
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+GRAVE IMPRESSIONS  SPELL 2
+UNCOMMON NECROMANCY
+Traditions divine, occult
+Cast 1 minute (somatic, verbal)
+Range touch; Targets 1 corpse
+Duration 10 minutes
+You project a fragment of your senses into the corpse. 
+While within 500 feet of the corpse (even if it’s outside 
+your line of sight or line of effect), you can see from 
+where the target corpse had eyes using your normal 
+visual senses, and you can hear from where the corpse 
+had ears using your normal auditory senses. You can 
+switch between your own vision and hearing, and 
+the corpse’s senses, with a single action that has the 
+concentrate trait. If the corpse naturally lacked eyes or 
+hearing organs in life, you cannot use that sense when 
+using this spell. If the corpse is moved from its location, 
+the spell ends.
+Heightened (4th) The duration increases to 1 hour.
+Heightened (6th) The duration lasts until the next time you 
+make your daily preparations.
+Okoro Obiyo
+Always the game and strategy enthusiast, Okoro can 
+use a simple game piece to trap an adversary in a 
+magical challenge of wits. 
+MIND GAMES  SPELL 2
+UNCOMMON ENCHANTMENT MENTAL
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal; Cost 3 gp game piece focus
+Range 30 feet; Targets 1 creature
+Saving Throw Will; Duration sustained up to 1 minute
+You lock minds with the target, trying to mentally 
+subdue them. The target must attempt 
+a Will save. Each time you Sustain 
+this Spell, the target attempts 
+another Will save.
+Critical Success  You are stunned 1 and 
+the spell ends.
+Success The target is unaffected.
+Failure The target is stunned 1.
+Critical Failure The target is stunned 2.
+Tzeniwe
+Strands-of-Glowing-Dawn 
+Tzeniwe can suggest many 
+valuable uses for this spell. 
+She most often employs it 
+to corral her rambunctious 
+children when they’ve gotten 
+into danger or are pestering 
+someone they shouldn’t. 
+FRIENDFETCH  SPELL 1
+UNCOMMON EVOCATION FORCE
+Traditions arcane, occult
+Cast [two-actions] somatic, verbal
+Range 30 feet; Targets 1 or 2 willing creatures
+You shoot out ephemeral, telekinetic strands that drag 
+each target directly toward you, stopping in the closest 
+unoccupied space to you in this path. This is forced 
+movement.
+Friendfetch
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897480
+26897480
+26897480
+4651666
+4651666
+4651666
+
+=== PAGE 7 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897481
+26897481
+26897481
+4651667
+4651667
+4651667
+78
+ANADI ALLIES
+Peaceful anadis easily integrate into 
+human communities so long as they 
+wear their humanoid shape. Anadi 
+families coexist happily with humans, 
+usually making their living as tailors, 
+weavers, or trappers. All too often, 
+however, anadis face social stigma 
+upon revealing their true forms. Most 
+choose to hide this form, sharing 
+their secret only with trusted friends. 
+Reclusive anadis remain in the 
+wilderness and avoid other ancestries 
+entirely, but they domesticate giant 
+spiders as trained guardians or 
+hunting animals.
+Anadi
+Anadis have three distinct forms—human, spider, and a beautiful but 
+unnerving hybrid shape that is their true form. Despite their unsettling 
+arachnid features, anadis are peaceful and form tight-knit communities.
+ANADI SEEKER
+Anadi seekers are knowledge seekers who often brave the outside world. 
+ANADI SEEKER  CREATURE 1
+UNCOMMON CG MEDIUM ANADI HUMANOID
+Perception +7
+Languages Anadi, Common
+Skills Acrobatics +6, Arcana +7, Athletics +4 (+6 to Climb in hybrid or spider 
+form), Crafting +7 (+11 weaving), Nature +5, Occultism +7
+Str +1, Dex +3, Con –1, Int +4, Wis +2, Cha +0
+Items sling (20 sling bullets)
+AC 15; Fort +4, Ref +10, Will +7
+HP 20
+Speed 25 feet, climb 25 feet
+Melee [one-action] fangs +8 (finesse), Damage 1d6+1 piercing plus anadi venom 
+Ranged [one-action] sling +8 (propulsive, range increment 50 feet, reload 1), Damage 1d6 
+bludgeoning
+Anadi Venom  (poison); Saving Throw  DC 15 Fortitude; Maximum Duration 
+4 rounds; Stage 1  1d6 poison damage and flat-footed (1 round); Stage 2 1d6 
+poison damage, flat-footed, and clumsy 1 (1 round)
+Arcane Innate Spells  DC 17; 1st color spray , magic missile , unseen 
+servant; Cantrips (1st) dancing lights, detect magic, mage hand, read 
+aura, shield
+Change Shape [one-action] (arcane, concentrate, polymorph, transmutation) 
+The anadi changes into their hybrid, spider, or human form. The 
+above statistics assume the anadi is in hybrid form. While in human 
+form, the anadi seeker loses their climb Speed and can’t use their fangs 
+attack. When in spider form, they can’t use weapons. 
+Spin Silk (concentrate, exploration, manipulate) By spending several 
+minutes, an anadi can produce silk to craft items made of cloth. An 
+anadi can produce enough silk in a day to craft a single garment.
+ANADI LURKER
+These anadis lurkers combine their innate magical 
+talents and wilderness lore to snare prey. 
+ANADI LURKER  CREATURE 3
+UNCOMMON CN MEDIUM ANADI HUMANOID
+Perception +11
+Languages Anadi, Common
+Skills Acrobatics +9, Athletics +10 (+12 to Climb 
+in hybrid or spider form), Crafting +5 (+9 
+weaving), Nature +7, Stealth +11, Survival +9
+Str +3, Dex +4, Con +0, Int +0, Wis +2, Cha +1
+Items kukri, leather armor
+AC 19; Fort +7, Ref +11, Will +9
+HP 45
+Anadi Lurker
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897481
+26897481
+26897481
+4651667
+4651667
+4651667
+
+=== PAGE 8 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897482
+26897482
+26897482
+4651668
+4651668
+4651668
+79
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+ARCANE WEAVING  RITUAL 3
+UNCOMMON DIVINATION
+Cast 1 day; Cost rare silks worth a 
+total value of 20 gp × the spell 
+level; Secondary Casters 1
+Primary Check  Arcana or Occultism 
+(expert); Secondary Checks  
+Arcana, Crafting, or Occultism
+You and the secondary casters weave 
+together spells (and, if anadis, silk) 
+in a complex ritual that combines 
+magical learning with art, allowing all 
+the participants to share spells they 
+know with one another. 
+Success You or any secondary caster 
+can swap any spell in your spell 
+repertoire for a spell in the spell 
+repertoire of any other participant. 
+This spell can’t be a higher level 
+than the ritual’s level.
+Failure None of the participants can 
+swap spells.
+Critical Failure  As failure, and all 
+participants are stupefied 1 for 
+24 hours and can’t reduce their 
+stupefied condition below 1 for 24 
+hours.
+Speed 25 feet, climb 25 feet
+Melee [one-action] fangs +12 (finesse), Damage 1d8+3 piercing plus anadi venom 
+Melee [one-action] kukri +12 (agile, finesse, trip), Damage 1d6+3 slashing
+Arcane Innate Spells  DC 20; 2nd blur, web; 1st color spray, illusory disguise, 
+illusory object; Cantrips (2nd) daze, detect magic, mage hand, message
+Anadi Venom (poison); Saving Throw DC 18 Fortitude; Maximum Duration  4 
+rounds; Stage 1  1d6 poison damage and flat-footed (1 round); Stage 2  1d6 
+poison damage, flat-footed, and clumsy 1 (1 round)
+Change Shape  [one-action] (arcane, concentrate, polymorph, transmutation) As anadi 
+seeker.
+Sneak Attack The anadi lurker deals an additional 1d6 precision damage to flat-
+footed creatures.
+Spin Silk (concentrate, exploration, manipulate) As anadi seeker. 
+ANADI FATEWEAVER
+The anadis manipulate the threads of fate as easily as they spin silk. 
+ANADI FATEWEAVER CREATURE 5
+UNCOMMON NG MEDIUM ANADI HUMANOID
+Perception +14
+Languages Anadi, Common
+Skills Acrobatics +13, Athletics +11 (+15 to Climb in true or spider form), Crafting 
++9 (+13 weaving), Medicine +12, Nature +14, Survival +12
+Str +2, Dex +4, Con +0, Int +0, Wis +5, Cha +1
+Items composite shortbow (20 arrows), hide armor, shortsword
+AC 21; Fort +9, Ref +12, Will +15
+HP 75
+Fate’s Threads [reaction] (fortune) Frequency three times per day; Trigger An ally 
+within 30 feet of the anadi fateweaver that they can see makes a skill check 
+or a saving throw; Effect The creature rerolls the triggering check and takes 
+the new result. 
+Speed 25 feet, climb 25 feet
+Melee fangs +13 (finesse), Damage 2d6+6 plus anadi venom 
+Melee shortsword +13 (agile, finesse, versatile S), Damage 1d6+6 
+piercing
+Ranged composite shortbow +13 (deadly d10, propulsive, range 
+increment 60 feet, reload 0), Damage 1d6+1 piercing
+Arcane Spontaneous Spells DC 23, attack +15; 3rd (2 slots) hypnotic 
+pattern, mind reading ; 2nd (3 slots) augury, invisibility, status; 1st 
+(3 slots) illusory object, magic missile, ray of enfeeblement; Cantrips 
+(3rd) daze, ghost sound, produce flame, shield
+Arcane Innate Spells DC 23; 2nd blur, web; 1st color spray, mending, 
+unseen servant ; Cantrips (3rd)  dancing lights,  detect magic, 
+mage hand, message
+Rituals DC 23; arcane weaving (see sidebar)
+Anadi Venom (poison); Saving Throw DC 20 Fortitude; 
+Maximum Duration 4 rounds; Stage 1 1d6 poison 
+damage and flat-footed (1 round); Stage 2  1d6 
+poison damage, flat-footed, and clumsy 1 (1 
+round)
+Change Shape  [one-action] (arcane, concentrate, polymorph, 
+transmutation) As anadi seeker.
+Spin Silk (concentrate, exploration, manipulate) As anadi seeker. 
+Anadi Fateweaver
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897482
+26897482
+26897482
+4651668
+4651668
+4651668
+
+=== PAGE 9 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897483
+26897483
+26897483
+4651669
+4651669
+4651669
+80
+Bee, Giant
+Like their smaller counterparts, giant bees are highly territorial. Many 
+types of giant bees construct hives in caves or abandoned buildings and 
+are quick to attack creatures that they deem a threat to the single fertile 
+queen, who almost never leaves the hive. Although most common in 
+warm biomes with lots of vegetation, some giant bees live in arid or cold 
+environments and are solitary rather than hive-dwelling. 
+GIANT WORKER BEE
+Worker bees, exclusively female, exist to feed and defend a hive. They have 
+no qualms about sacrificing their lives when confronting intruders in their 
+territory. Worker bees can fight singly, in small groups, or in swarms of 
+dozens. Giant worker bees inject a venom with their stings, but this venom 
+is rarely dangerous except to people sensitive to it. Other worker bees have 
+no stinger and only bite their enemies.
+GIANT WORKER BEE  CREATURE 0
+N MEDIUM ANIMAL
+Perception +5; darkvision 
+Skills Acrobatics +6, Athletics +5
+Str +2, Dex +3, Con +2, Int –5, Wis +1, Cha –1
+AC 16; Fort +6, Ref +9, Will +3
+HP 16; Weaknesses smoke susceptibility
+Smoke Susceptibility A giant bee is slowed 1 for 1 round if it 
+starts its turn in heavy smoke.
+Speed 20 feet, fly 40 feet
+Melee [one-action] stinger +8 (deadly d6, finesse), Damage 1d4+2 
+piercing 
+Melee [one-action] mandibles +8 (agile, finesse), Damage 1d4+2 
+piercing
+GIANT MINING BEE
+Giant mining bees have smaller bodies than giant worker 
+bees but sometimes look larger due to their bristles, which 
+resemble fur. They dig tunnels in sand, old wood, or stone to 
+create nests and aggressively defend their lairs. Although not 
+truly subterranean, giant mining bees are the most likely type 
+of giant bees to be found underground, and some dwarf apiarists 
+breed and train them.
+GIANT MINING BEE  CREATURE 2
+N SMALL ANIMAL
+Perception +9; darkvision, tremorsense (imprecise) 30 
+feet
+Skills Acrobatics +7, Athletics +8
+Str +4, Dex +3, Con +1, Int –5, Wis +1, Cha +0
+AC 18; Fort +9, Ref +11, Will +5
+HP 30; Weaknesses smoke susceptibility
+Smoke Susceptibility As giant worker bee.
+Speed 20 feet, burrow 10 feet, fly 40 feet
+Melee [one-action] stinger +11 (deadly d8), Damage 1d6+4 piercing
+Melee [one-action] mandibles +11 (agile), Damage 1d6+4 piercing
+HIVE MINDS
+Bees communicate with each other 
+using complex combinations of 
+movement and pheromones. They 
+can share detailed information, 
+particularly related to food, water, 
+and dangers. A queen bee doesn’t 
+have the ability to directly control 
+members of her hive, but she guides 
+the entire hive’s activities and, when 
+necessary, its relocation. Some druids 
+have attempted to tap into this hive 
+mind to control giant bee swarms, with 
+limited success.
+Giant Worker Bee
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897483
+26897483
+26897483
+4651669
+4651669
+4651669
+
+=== PAGE 10 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897484
+26897484
+26897484
+4651670
+4651670
+4651670
+81
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+Fly, Giant Tsetse
+This blood-sucking fly, the size of a horse, is widely despised as a harbinger 
+of disease. Giant tsetse flies rarely congregate in large numbers, as they 
+require gallons of blood each day to survive and thus crowd out or drive 
+away rivals. Any group of creatures large enough to sustain multiple 
+tsetse flies, such as a herd of dinosaurs, are quite likely to dominate the 
+surrounding ecosystem on their own right.
+A single giant tsetse fly can kill an entire herd of large animals within a 
+few weeks, and those they don’t kill often succumb to disease. When not 
+hunting, giant tsetse flies prefer to hide in warm, dark places in forests and 
+swamps, though they sometimes inhabit wet cave systems where prey is 
+plentiful. The thrumming drone of their wings echoes around such cave 
+systems, warning travelers familiar with the noise that the creatures are 
+lairing nearby.
+If food becomes scarce, a giant tsetse fly relocates elsewhere. They tend 
+to follow rivers, animal tracks, or even roads to find food. This can take 
+them to the fringes of civilization, where farms and ranches often have 
+livestock that draws their attention. Settlers who find evidence of a 
+giant tsetse fly should quickly seek out help to eliminate the pests, 
+as all their animals (and, indeed, their families) are in jeopardy as 
+long as the hungry insect is near. 
+Giant tsetse flies are only moderately smarter than 
+ordinary flies, but some creatures have learned that they 
+can train the creatures with frequent offerings of fresh 
+blood. Giant tsetse flies might therefore be put to use 
+as guardians or even mounts, but any potential 
+trainer must take care not to become the 
+voracious insect’s next meal.
+GIANT TSETSE FLY CREATURE 2 
+N LARGE ANIMAL
+Perception +9; blood scent, scent (imprecise) 
+60 feet
+Skills Athletics +8, Stealth +5 (+9 to Hide)
+Str +5, Dex +3, Con +3, Int –5, Wis +1, Cha –5
+Blood Scent The giant tsetse fly can detect 
+blood within 30 feet. This is a precise 
+sense against creatures within 30 feet 
+that are bleeding.
+AC 18; Fort +7, Ref +11, Will +5
+HP 30; Immunities disease, sleep
+Speed 10 feet, fly 40 feet 
+Melee [one-action] proboscis +11, Damage 1d6+5 piercing plus 
+sleeping sickness
+Blood Draw [one-action] If the fly’s last action was a successful 
+proboscis Strike, it sucks its target’s blood. The target 
+takes 1d4 bleed damage (or 1d6 bleed damage if the 
+target is an animal). 
+Sleeping Sickness (disease) Saving Throw  DC 18 
+Fortitude; Stage 1  enfeebled 1 (1 day); Stage 2  
+enfeebled 1 and drained 1 (1 day); Stage 3 unconscious 
+(1 day); Stage 4 as Stage 3 (1 day); Stage 5 dead
+TERRIBLE 
+UNDERESTIMATION
+A group of evil druids near 
+Bloodcove captured and bred large 
+tsetse flies to distill and empower 
+the disease they spread. The 
+underestimated the flies’ ingenuity; 
+the insects escaped and fed on 
+several animals the druids had 
+ritually prepared for sacrifice. The 
+flies grew to their enormous size, 
+killed the druids, and scattered into 
+the surrounding fens. 
+Giant Tsetse Fly
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897484
+26897484
+26897484
+4651670
+4651670
+4651670
+
+=== PAGE 11 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897485
+26897485
+26897485
+4651671
+4651671
+4651671
+82
+Gremlin
+Gremlins are malicious fey that infest and prey upon mortal communities. 
+They live in tunnels, beneath eaves, and in abandoned buildings, stealing 
+what they need from their neighbors instead of creating for themselves.
+While there are gremlins of any and every gender, their appearances 
+don’t differ by gender. Young gremlins grow to maturity with alarming 
+speed. Their entire nest raises them communally, though they are often 
+encouraged to wander unsupervised and create mischief away from home 
+instead of inside it. 
+SCRIT
+Scrits are short, spindly gremlins with gray or beige leathery skin and a 
+coat of smeared ink on their fingers. They make themselves the nightmare 
+of many scribes and librarians, as they delight in nothing more than 
+destroying books, scrolls, artwork, and other records or writing. The oils 
+on a scrit’s skin smears ink and renders text—even magical writing—
+completely illegible. Once they have smeared every page of a book, scrits 
+devour them whole, absorbing the contents the book used to hold. After 
+eating books they find stupid or funny, scrits hold skits for other gremlins 
+which mock the mortal authors for the amusement of the other fey. 
+SCRIT CREATURE 0
+UNCOMMON CE TINY FEY GREMLIN
+Perception +6; darkvision
+Languages Undercommon
+Skills Athletics +5, Acrobatics +5, Deception +4, Stealth +7
+Str +1, Dex +3, Con +2, Int +2, Wis +0, Cha +0
+AC 16; Fort +6, Ref +9, Will +4
+HP 18; Weaknesses cold iron 2
+Speed 25 feet
+Melee [one-action] sticky fingers +7 (agile, finesse), Damage 1d4+1 piercing plus 
+nasty ink
+Primal Innate Spells DC 16, attack +8; 2nd speak with animals (at will); 1st 
+grease; Cantrips (1st) prestidigitation
+Eat Book  [three-actions] A scrit can consume a book after 
+smearing its pages to absorb its contents (it gains no 
+benefit from consuming a book with pages smeared by 
+another scrit). For 1 day after consuming the book, the scrit 
+can make Recall Knowledge skill checks on the book’s 
+subject with a +4 item bonus, and it can speak and 
+understand the languages the book was written in. If 
+it Eats another Book, it replaces the benefits of the 
+previous Eat Book.
+Nasty Ink (poison) A scrit’s fingers are perpetually 
+covered in smeared ink from the writing it’s 
+destroyed. This ink mixes with its skin oils to 
+create a disgusting, sticky poison. Saving 
+Throw DC 14 Fortitude; Maximum 
+Duration 4 rounds; Stage 1  1d4 
+poison damage and sickened 1 (1 round)
+Smear Text  [one-action] The scrit rubs its fingers 
+against one page of writing, smearing the 
+GREMLIN SOCIETY
+Most gremlin communities are 
+egalitarian and cooperative, with 
+little importance placed on familial 
+ties compared to the bond of the 
+community as a whole. Gremlin 
+leaders are often the youngest and 
+most annoying members of a group, 
+achieving their positions by harassing 
+an old leader into resigning or bullying 
+the other gremlins into obedience. 
+Gremlin adults encourage the children 
+to explore by themselves, in hopes that 
+they busy themselves harassing local 
+mortals instead of creating trouble for 
+the other gremlins.
+Scrit
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897485
+26897485
+26897485
+4651671
+4651671
+4651671
+
+=== PAGE 12 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897486
+26897486
+26897486
+4651672
+4651672
+4651672
+83
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+text and rendering it unreadable. The scrit can smear and destroy magical 
+writing such as a glyph of warding  or a sigil by succeeding at a counteract 
+check (using the scrit’s spell attack modifier) against the caster’s DC.
+GNAGRIF
+Squat, surly, and perpetually covered in wet mud, gnagrifs are gremlins 
+that infest and destroy homes. They possess sharklike faces and two sets of 
+jaws, allowing them to open their mouths 180 degrees and clamp onto flat 
+rocks and walls. They delight in keeping their presence hidden, chewing 
+holes into walls and foundations that weaken structures but don’t bring 
+them down until their inhabitants slam their doors too hard or step in the 
+wrong place. Soon as the unwitting victims spring the trap, the building 
+collapses around them.
+Like all fey, gnagrifs detest iron. Gnagrifs become obsessively vengeful 
+if they accidentally swallow an iron nail or hinge, terrorizing families or 
+whole villages for generations over the slight.
+GNAGRIF CREATURE 2
+UNCOMMON NE TINY FEY GREMLIN
+Perception +7; darkvision
+Languages Undercommon
+Skills Acrobatics +8, Athletics +6, Intimidation +6, Stealth +8, Survival +5
+Str +2, Dex +4, Con +3, Int –1, Wis –1, Cha +2
+Items light hammer
+AC 18; Fort +9, Ref +10, Will +5
+HP 35; Weaknesses cold iron 3
+Soften Stone [reaction] Trigger A creature Strides or Steps into difficult terrain adjacent 
+to the gnagrif; Effect The gnagrif gives the ground a hearty pound and it shifts 
+beneath the triggering creature’s feet. The triggering creature must succeed 
+on a DC 18 Reflex save or fall prone.
+Speed 20 feet, burrow 10 feet, climb 10 feet
+Melee [one-action] light hammer +10 (agile), Damage 1d6+4 bludgeoning
+Ranged [one-action] light hammer +10 (agile, thrown 20 feet), Damage 1d6+4 bludgeoning
+Primal Innate Spells DC 16; 2nd shatter, speak with animals (at will); 1st 
+ant haul, feather fall; Cantrips (1st) prestidigitation
+Eat Rocks [one-action] The gnagrif gnashes and tears at an object or structure, 
+dealing 2d4+2 piercing damage and ignoring Hardness 2 or lower.
+Lurk [two-actions] Requirements A structure made from stone or earth is 
+within the gnagrif’s reach; Effect The gnagrif 
+partially melds with the stone. It Takes Cover 
+in the stone and makes a Stealth check to 
+Hide.
+Rubble Stride  A gnagrif ignores difficult 
+terrain caused by rocks or rubble, 
+including squares affected by their 
+Stomp Around.
+Stomp Around [one-action] (move) The gnagrif huffs 
+and stamps its feet, churning the ground 
+around it. The square it is in and all unoccupied adjacent 
+squares become difficult terrain.
+Wrecker Whenever two or more gnagrifs use Eat Rocks on 
+the same object or structure, the value of Hardness they can ignore increases 
+by 1 for every gnagrif, to a maximum of Hardness 10.
+GREMLIN PETS
+Gremlins making their nests near 
+mortals’ homes inevitably encounter 
+domesticated animals. Most gremlins 
+can use their innate magical abilities 
+to speak with animals, allowing 
+them to bargain with pets and 
+work animals to aid in terrorizing, 
+stealing, or training them to harass 
+their owners. Gremlins especially 
+love to befriend cats, whom they 
+rarely bother, instead bringing them 
+into their pranks and schemes as 
+coconspirators.
+Gnagrif
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897486
+26897486
+26897486
+4651672
+4651672
+4651672
+
+=== PAGE 13 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897487
+26897487
+26897487
+4651673
+4651673
+4651673
+84
+Silverfish
+A common pest with a silvery carapace and an undulating, fishlike scuttle, 
+the nocturnal silverfish infests homes and libraries throughout Golarion. 
+These insects aren’t typically dangerous, but their tendency to devour 
+books and clothing often puts them at odds with larger creatures.
+SILVERFISH SWARM
+It’s uncommon for silverfish to congregate in sufficient numbers to 
+constitute a swarm, but forgotten libraries or similar out-of-the-way 
+places might harbor a multitude of the voracious pests. 
+SILVERFISH SWARM CREATURE –1
+UNCOMMON N LARGE ANIMAL SWARM
+Perception +5; darkvision 
+Skills Acrobatics +6, Stealth +4
+Str –2, Dex +3, Con +0, Int –5, Wis +1, Cha –2
+AC 13; Fort +5, Ref +8, Will +4
+HP 9; Immunities precision, swarm mind; Weaknesses area damage 2, splash 
+damage 2; Resistances physical 2
+Speed 40 feet, climb 20 feet
+Swarming Bites  [one-action] Each enemy in the silverfish swarm’s space takes 1d4 
+piercing damage (DC 14 basic Fortitude save). A creature that fails its save is 
+sickened 1.
+Voracious Consumption (1 minute) A silverfish swarm consumes up to 1 Bulk of 
+paper, cloth, or similar material. It can consume up to 4 Bulk each day.
+GIANT SILVERFISH
+Some silverfish can grow as large as a pig, particularly in magic colleges 
+and ancient vault-libraries, where they terrify hapless 
+students and destroy precious tomes. Popular academic 
+lore attributes their unusual size to a steady diet of spellbooks.
+GIANT SILVERFISH  CREATURE 0
+UNCOMMON N SMALL ANIMAL
+Perception +8; darkvision
+Skills Acrobatics +6, Athletics +4, Stealth +6
+Str +2, Dex +4, Con +1, Int –5, Wis +1, Cha –2
+AC 15; Fort +7, Ref +8, Will +5
+HP 17
+Wriggle [reaction] Trigger A creature the giant 
+silverfish can see targets it with an 
+attack; Effect The giant silverfish gains 
+a +2 circumstance bonus to AC against 
+the triggering attack. After the attack 
+resolves, the silverfish Steps. 
+Speed 40 feet, climb 20 feet
+Melee [one-action] mandibles +8, Damage 1d6+2 
+piercing
+Voracious Consumption (1 minute)  A giant 
+silverfish consumes up to 1 Bulk of paper, 
+cloth, or similar material. It can consume up to 
+8 Bulk each day.
+SILVERFISH MOLTS
+In an interesting twist to the pest’s life 
+cycle, some spellcasters incorporate 
+giant silverfish moltings into their 
+spellbooks and scrolls. These shed 
+skins have the consistency of 
+onionskin and are valuable due to 
+the superstition that they contain 
+residual magic from texts the silverfish 
+consumed. Regardless of whether 
+a silverfish molt has any intrinsic 
+magical power, many tenured mages 
+feel that proof of a book-devouring 
+vermin’s demise is worthy of a reward. 
+Thus, such a trophy is guaranteed to 
+fetch a tidy sum from the right buyer.
+Giant Silverfish
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897487
+26897487
+26897487
+4651673
+4651673
+4651673
+
+=== PAGE 14 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897488
+26897488
+26897488
+4651674
+4651674
+4651674
+85
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+Spellskein
+Magic can be used for many purposes—creating objects, summoning 
+creatures, and manipulating the elements. Usually when a ritual is cast, the 
+outcome is reliable and predictable, but sometimes magic takes unexpected 
+turns and a spell’s energy lands in unintended places.
+Spellskeins are scraps of fabric and paper infused with magic and brought 
+to life. Once animated, they fold themselves into different shapes, changing 
+both their appearance and their abilities based on their configuration. 
+Spellskeins are only rarely aggressive and sometimes downright timid, but 
+most have a playful streak. 
+Though they are often made accidentally out of magical leakage 
+from rituals, some ritualists intentionally create spellskeins to serve as 
+magical toys or animated decor. These planned spellskeins tend to be 
+more obedient and less mischievous than their accidental counterparts, 
+following commands or routines set by their creators even after said 
+creators are long gone.
+Scrap pieces torn from the body of a spellskein sometimes animate as 
+ever smaller, more mischievous constructs, which usually dart away to 
+hide until it’s safe to come out and cause trouble.
+SPELLSKEIN  CREATURE 0
+UNCOMMON N TINY CONSTRUCT
+Perception +2; darkvision
+Languages Common (can’t speak any language)
+Skills Acrobatics +5, Stealth +7
+Str –1, Dex +3, Con +1, Int –4, Wis +0, Cha –5
+AC 16; Fort +5, Ref +9, Will +4
+HP 15; Immunities bleed, death effects, disease, doomed, drained, fatigued, healing, 
+necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious
+Speed 25 feet
+Melee [one-action] sharp edge +7 (agile, finesse), Damage 1d6+1 slashing
+Collapse The spellskein can collapse flat to the ground to 
+Hide; it can attempt to Hide even if it doesn’t have 
+any cover or concealment.
+Crane Glide  [one-action] Requirements The spellskein 
+is folded into its crane shape; Effect The 
+spellskein gains a 25-foot fly Speed until 
+the beginning of its next turn.
+Frog Hop [two-actions] Requirements The spellskein 
+is folded into its frog shape; Effect The 
+spellskein Leaps 15 feet horizontally or 
+vertically and gains a 10-foot climb Speed 
+until the beginning of its next turn.
+Lizard Frill [one-action] (arcane, enchantment, fear, mental) 
+Requirements The spellskein is folded into its lizard shape; Effect 
+The spellskein puffs out its cloth frills and shakes them from 
+side to side to look fierce. The first creature hit by its sharp 
+edge Strike before the start of its next turn must succeed 
+on a DC 14 Will save or become frightened 1 (frightened 2 on 
+a critical failure).
+Refold  [one-action] The spellskein folds itself into a crane, frog, or lizard shape, as 
+it chooses.
+MORE SHAPES
+Some spellskeins have additional 
+forms and abilities unique to the 
+rituals that created them.
+Consecrate: Spellskeins created 
+during consecrate rituals have a 
+religious symbol form and can use 
+the one-action activity anoint while 
+in that form. One creature within 
+10 feet gains a +1 status bonus to 
+saving throws for one round.
+Control Weather: Spellskeins 
+created during control weather 
+rituals have a storm cloud form and 
+can gain the following attack in that 
+form: Ranged [one-action] zap +6 (range 30 
+feet), Damage 1d4+1 electricity.
+Heroes’ Feast: Spellskeins created 
+during heroes’ feast rituals have a 
+teapot form and can use the two-
+action activity serve tea while in that 
+form. A living creature that drinks the 
+tea with an Interact action regains 
+1d4 Hit Points and is temporarily 
+immune for 10 minutes. Unconsumed 
+tea disappears at the beginning of 
+the spellskein’s next turn.
+Spellskein
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897488
+26897488
+26897488
+4651674
+4651674
+4651674
+
+=== PAGE 15 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897489
+26897489
+26897489
+4651675
+4651675
+4651675
+86
+Though her tiny stature and canine features would 
+never suggest it, Kurshkin is an immortal trickster 
+older than most members of the Magaambya. As 
+a gremlin—a category of mischievous, malevolent 
+fey—Kurshkin has spent most of her life with no real 
+motives beyond childish cruelty. Like most pugwampi 
+gremlins, Kurshkin delights in the misfortune of others, 
+and especially enjoying making bad situations worse 
+by introducing wasps, bleach, or other humiliating 
+and painful substances to a situation where people are 
+already suffering.
+After decades of tormenting workers and artists on 
+the outskirts of Nantambu, several members of the 
+squabbling collective of gremlins that Kurshkin was a 
+part of developed a grudge against one of the youths 
+that often helped out around the city—an obnoxiously 
+mellow and good-humored young man named Takulu 
+Ot. The young man was a student at the Magaambya 
+with a terrible habit of helping people keep a 
+positive attitude in bad circumstances. In a display of 
+uncharacteristic boldness, the gremlins ventured into 
+the academy to enact their revenge on the youth and 
+the entire school. They knew that historically, gremlins 
+tended to eschew the academy, but they didn’t know 
+why. Kurshkin, in particular, considered herself far too 
+clever to have anything to fear at the Magaambya. 
+After all, the academy only held people, and people 
+are fun to torment. 
+Unsurprisingly, the gremlins found they had bitten 
+off more than they could chew in deciding to take on 
+a university filled with mages. Kurshkin was one of 
+the first “casualties” of the offensive—caught by a deft 
+student, the pugwampi was stuffed in a sack, loaded 
+onto an elephant, and was two weeks of travel away 
+from Nantambu before she managed to chew her way 
+out of her confinement.
+By the time Kurshkin made it back to the 
+Magaambya, all of her fellow gremlins were dead.
+Though the pugwampi’s first impulse was to run 
+and hide, she was also paranoid that the killer would 
+be coming for her next. Kurshkin began to spy on the 
+campus, looking for any sign of a continued threat. In 
+her vigil, she found herself paying attention to some of 
+the magical lessons being taught at the school. After 
+years of inadvertent osmosis, she even managed to 
+develop a few new magical tricks of her own.
+The Magaambya’s philosophy of understanding 
+others and overcoming differences worked in 
+Kurshkin’s favor. If a few teachers or staff members 
+noticed a creature that would skitter off when spotted, 
+and seemed to be doing no harm, they said nothing 
+about it. Kurshkin’s caution eventually waned to the 
+point where she would risk a few pranks on students, 
+but her fear of attracting attention meant these tricks 
+were all effectively harmless, and many of the scholars 
+considered the gremlin’s mischief to be a good lesson 
+to teach students some care. Whether or not this 
+situation would have remained tenable on its own is 
+debatable, but it unraveled as soon as the being known 
+as Stone Ghost reached out to Kurshkin.
+A strange creature that manifested from the rock of 
+the Magaambya’s walls, Stone Ghost was recruiting 
+gremlins for his schemes against the university. He 
+originally approached Kurshkin as a kindred spirit, 
+promising a chance at revenge. When Kurshkin 
+refused, citing what had happened to her own vengeful 
+comrades, Stone Ghost revised his offer: obey, or Stone 
+Ghost would kill her.
+It quickly became apparent that Kurshkin was 
+somehow the most competent among Stone Ghost’s 
+gathered gremlins, and she was happy to take the 
+leadership position and heap abuse on her underlings. 
+A firm believer in leading from the back, Kurshkin 
+obeys Stone Ghost’s orders by telling her fellows what 
+to do while she remains safe and sound, far away from 
+any blowback their malicious antics might incur. 
+Like most pugwampis, Kurshkin resembles a dog 
+that has lost most of its fur to mange. Her head is 
+too big for her body, and her eyes nearly seem to be 
+popping out of their sockets. She has large, floppy ears 
+but is mostly deaf. During her time at the Magaambya, 
+her eyes have turned bright blue in color—a quirk that 
+her fellow gremlins both mock and fear. Her clothing 
+is unusually fine for a gremlin, due to her scavenging 
+from the Magaambya’s well-to-do students, and 
+has become somewhat vain and fussy about what 
+Kurshkin
+ Gremlin Trickster
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897489
+26897489
+26897489
+4651675
+4651675
+4651675
+
+=== PAGE 16 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897490
+26897490
+26897490
+4651676
+4651676
+4651676
+87
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+she wears. She enjoys decorating herself with threads 
+or scraps of cloth that have been ripped off of students 
+by mischance due to her unlucky aura.
+CAMPAIGN ROLE
+Kurshkin serves as a secondary villain to the 
+adventure, a somewhat silly antagonist who can be 
+dangerous nevertheless—if underestimated. Despite 
+her sympathetic circumstances, she is still unrepentant 
+in her malice. 
+In combat, Kurshkin relies on her unluck aura to 
+keep her safe, darting close to foes and hoping the 
+ensuring misfortune will cause them to deal more 
+harm to each other than to her. If her enemies seem too 
+competent, she’s happy to abandon her subordinates 
+to her foes’ whims so that she can flee to safety. 
+Kurshkin is a petty sort of evil, the kind that delights 
+in causing others misfortune because she thinks it’s 
+funny. While she’s never done anything that warrants 
+death by most human standards, it’s undeniable that 
+her presence and actions make people miserable and 
+situations worse. 
+Her dislike of deadly violence is mainly due to 
+cowardice and the fact that she finds corpses to be less 
+entertaining than living victims. This doesn’t mean she 
+won’t stick a sword on someone who makes her mad 
+by spoiling her fun; she’s done so many times before, 
+and likely will again. Even if the heroes deal with 
+Kurshkin without lethal measures, she still endeavors 
+to slowly grind down everyone around her, one minor 
+annoyance at a time.
+KURSHKIN CREATURE 3
+UNIQUE NE TINY FEY GREMLIN
+Female pugwampi jinxer
+Perception +10 (+2 to hear things); darkvision
+Languages Common, Gnoll, Undercommon
+Skills Arcana +8, Crafting +8, Deception +8, Nature +8, 
+Stealth +11, Thievery +9 (+11 to Steal)
+Str –2, Dex +4, Con +1, Int +1, Wis –1, Cha +3
+Items shortbow (60 arrows), shortsword
+AC 19; Fort +8, Ref +11, Will +8
+HP 50; Weaknesses cold iron 5
+Collateral Damage  [reaction] Trigger A Strike critically 
+misses Kurshkin; Effect Kurshkin redirects the 
+strike to an adjacent creature. The attacker 
+rerolls the Strike against that creature.
+Unluck Aura  (aura, divination, mental, 
+misfortune, primal) 20 feet. Creatures 
+other than animals, gremlins, and 
+gnolls in the aura become extremely 
+unlucky (DC 20 Will save; a 
+creature must roll this Will save 
+twice and take the worse result). On a successful save, 
+the creature is temporarily immune to pugwampi unluck 
+auras for 24 hours. On a failure, the creature must roll 
+twice and take the worse result on all checks as long as 
+it remains within the aura’s emanation.
+Speed 25 feet
+Melee [one-action] shortsword +12 (agile, finesse, magical, versatile 
+S), Damage 1d6+4 piercing
+Ranged [one-action] shortbow +12 (deadly d10, magical, range 
+increment 60 feet, reload 0), Damage 1d6 piercing
+Primal Innate Spells  DC 20; 2nd speak with animals  
+(at will); 1st gust of wind , spider sting ; Cantrips (2nd)  
+prestidigitation
+Lucky Stabs  Kurshkin deals an additional 1d6 damage 
+with her melee Strikes against creatures affected by her 
+unluck aura. 
+Natural Thief When attacking with a finesse melee weapon, 
+Kurshkin adds her Dexterity modifier to damage rolls 
+instead of her Strength modifier. 
+Kurshkin
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897490
+26897490
+26897490
+4651676
+4651676
+4651676
+
+=== PAGE 17 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897491
+26897491
+26897491
+4651677
+4651677
+4651677
+88
+As a young man, Uduak Basni seemed like a typical 
+Magaambyan initiate. Born with a supernatural 
+connection to the earth, he found himself drawn to the 
+Magaambya. To the professors at the academy, Uduak 
+was an obvious candidate for the school’s education. 
+He easily found a sponsor and was set upon his 
+Perquisite to become a full-fledged attendant.
+Yet Uduak had a selfish streak. The pull he felt 
+toward the Magaambya quickly bred a sense of 
+entitlement. Feeling that he was meant to be building 
+his own skills at the academy, he felt resentful about 
+the community service he felt was being forced upon 
+him. He performed his tasks with little effort and little 
+concern for the people he was supposedly helping. 
+Cracks began to form in his mild demeanor, and he 
+increasingly drew reprimands for acts of carelessness 
+or petty cruelty. Everything came to a head when his 
+cohort was tasked with removing a group of pugwampi 
+gremlins that had started causing mischief within the 
+academy walls. Ignoring the spirited discussions of his 
+fellow initiates, Uduak used his magic to slaughter the 
+gremlins like vermin.
+The aftermath saw Uduak expelled from the school. 
+It was the last straw in a long series of misdeeds, but 
+the young man fixated on this one event, enraged 
+that the school would rob him of his future over 
+defending himself and his classmates from a group 
+of mere pests. In his anger, he lashed out violently at 
+the school and the teachers. His magic bounced off 
+the ancient wards of the Magaambya like a pebble 
+off a cliff, and the professors temporarily confined 
+Uduak until the administration could decide what 
+to do with him. Left to stew in his own resentment, 
+Uduak ignored his guard’s warning, drew on all of his 
+strength, and attempted to shatter the spells that kept 
+him imprisoned within his room.
+Under predictable circumstances, Uduak’s magic 
+would have splashed futilely against the Magaambya’s 
+wards once more, leaving his efforts entirely 
+impotent. Yet magic is never entirely predictable—or 
+perhaps the murdered pugwampis got one last scrap 
+of revenge. In an incredibly unlikely reaction, the 
+Magaambya’s wards rebounded onto Uduak with the 
+full force of their power. So far as any teacher at the 
+school could tell, this reaction evaporated Uduak on 
+the spot.
+The student that was Uduak was not gone, however, 
+but found himself merged with the Magaambya’s stone 
+walls. The same wards that originally trapped him 
+within the buildings now protected him from detection, 
+and Uduak decided to use this to his advantage. He 
+hid himself in an abandoned section of the school and 
+began planning his vengeance. His first recruits to his 
+cause were an assorted group of gremlins that snuck 
+into the school with no clue as to the recent massacre 
+of their kind. Through a series of promises and threats, 
+the cursed student took command of the gremlins, 
+considering it fitting that the initiators of his downfall 
+would now serve him against the teachers who had so 
+wronged him. The gremlins, impressed and fearful of 
+their new leader’s ability to move through stone walls, 
+granted him a new moniker: Stone Ghost.
+Stone Ghost resembles a young man with a body 
+made out of chunks of stone, his faceted skin matching 
+the blocks that make up the Magaambya campus. His 
+hair and face are made of ruined mosaics, and his body 
+is covered in fragmentary runes: the shattered remains 
+of the magic wards that caused his current condition. 
+With nothing to temper his cruelty, Stone Ghost is 
+abusive both in and out of combat. During his spare 
+time, he shifts through walls to steal important items, 
+learn secrets, and ruin friendships. 
+CAMPAIGN ROLE
+Stone Ghost serves as the villain of this adventure. 
+He’s a spiteful and self-centered antagonist convinced 
+he’s been victimized and willing to take out his feelings 
+on the vulnerable. Due to his fear of the Magaambyan 
+teachers, he almost always targets weak and innocent 
+school initiates or adjuncts, punishing them for their 
+mere association with the professors. He has recently 
+worked to corral the insects and other creatures—
+including gremlins—that have been mysteriously 
+drawn to the school, waiting for the perfect moment 
+to unleash them for his own ends. As his minions can’t 
+move about the academy as easily has he can, Stone 
+Stone Ghost
+Spite-Filled Apparition and Failed Student
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897491
+26897491
+26897491
+4651677
+4651677
+4651677
+
+=== PAGE 18 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897492
+26897492
+26897492
+4651678
+4651678
+4651678
+89
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+Ghost has set them to digging tunnels while he plans 
+sabotage on a grand scale.
+Stone Ghost isn’t undead, but neither is he still 
+living. His connection to elemental earth allows him to 
+still take physical form, but in truth, he’s closer to his 
+new moniker in nature than he 
+can understand or admit, even 
+to himself. The former student 
+is nothing more than a hateful 
+will unmoored from a body, and 
+the only way to free his tormented 
+spirit to a peaceful afterlife is to 
+destroy him.
+STONE GHOST  CREATURE 5
+UNIQUE NE MEDIUM HUMAN HUMANOID OREAD
+Male human oread stone spirit
+Perception +13
+Languages Common, Gnoll, Terran
+Skills Arcana +12, Athletics +12, Intimidation +12, 
+Magaambya Lore +12, Nature +13, Stealth +11
+Str +3, Dex +0, Con +4, Int +3, Wis +4, Cha +1
+Items leather armor, +1 morningstar, sling (10 bullets)
+AC 20; Fort +11, Ref +9, Will +15
+HP 40; Resistances all damage 5 (except force 
+or ghost touch ; double resistance vs. 
+non-magical, stone, or effects with the 
+earth trait)
+Stone Spirit Stone Ghost can pass through 
+objects made of stone or soil, including walls. 
+When inside an object, Stone Ghost can’t 
+perceive, attack, or interact with anything 
+outside the object, and if he starts his turn 
+inside an object, he is slowed 1. 
+Speed 25 feet
+Melee [one-action] morningstar +15 (magical, versatile 
+P), Damage 1d6+7 bludgeoning
+Ranged [one-action] sling +11 (propulsive, 
+range increment 50 feet, 
+reload 1), Damage 1d6+5 
+bludgeoning
+Primal Prepared Spells  DC 22, 
+attack +14; 3rd earthbind, summon 
+elemental (earth only); 2nd darkvision, glitterdust, 
+shatter; 1st command (animals only), grease, pass 
+without trace; Cantrips (3rd) acid splash, dancing lights, 
+know direction, shield, tanglefoot
+Entombing Grasp [two-actions] (earth, manipulate) Requirements A 
+foe within Stone Ghost’s reach is standing on stone or 
+soil; Effect Stone Ghost briefly extends his intangibility 
+to a foe and drags or pounds them into the earth. He 
+makes an Athletics check against the target’s Fortitude 
+DC. On a success, the foe is planted waist-deep in 
+the ground and is immobilized and flat-footed until 
+it Escapes (DC 22). On a critical success, the foe is 
+completely buried and must hold its breath until it is free 
+or else start suffocating. A successful Escape returns the 
+foe to its original square on the surface, or the closest 
+unoccupied square.
+Stone Ghost
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897492
+26897492
+26897492
+4651678
+4651678
+4651678
+
+=== PAGE 19 ===
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897493
+26897493
+26897493
+4651679
+4651679
+4651679
+90
+Takulu was born in the scholarly town of Tunyani, a 
+settlement dedicated to the worship of the Empyreal 
+Lords of magic and knowledge. Due to protection 
+agreements held with the Tempest-Sun Mages of 
+Nantambu, Tunyani’s people were afforded the luxury 
+of scholarly focus, with no need for its youths to 
+train as warriors or soldiers. Instead, custom dictated 
+the eldest child of every family would be sent to the 
+priests and become a theologian. Takulu, first born to 
+his parents, arrived at the temples at the age of five. 
+Though he clearly disliked the separation from the 
+rest of his family, Takulu took to his initial lessons 
+well, soon excelling in his studies beyond what even 
+the most learned scholars of Tunyani could offer him. 
+Recognizing their son would never be happy where he 
+was, stifled in both mind and spirit, Takulu’s parents 
+invoked a different tradition—a gift of a sacred ibis 
+went to the Empyreal scholars, and Takulu went to 
+the Magaambya. 
+Takulu had a considerate and kind nature even as a 
+youth, and he immediately took to the Magaambyan 
+ideals of responsibility and community service. He 
+impressed his teachers with his thoughtfulness and 
+his almost-supernatural levels of calm when dealing 
+with difficult situations. His friendly and accepting 
+demeanor meant that Takulu often found himself 
+making friends with the unpopular or less successful 
+students, helping them overcome bullying, shyness, 
+and other social challenges to excel. These efforts 
+found him surrounded by loyal friends and grateful 
+acquaintances as he advanced his academic career. A 
+year after achieving Conversant rank, he married his 
+wife, a talented glass artist living in Nantambu; their 
+relationship remains quietly happy and unshakable to 
+this day.
+For over a decade, he was content, and this was 
+enough. Yet as Takulu watched the next generation 
+of Magaambya initiates work their way through their 
+studies, he began to realize his beloved academy had 
+flaws. The school was incredibly understanding of 
+different methods of learning, but could be callous 
+when it came to supporting students emotionally. 
+The self-directed studies that had offered Takulu the 
+freedom to pursue his own interests allowed similarly 
+self-directed and ambitious students to flourish but 
+left those less certain of their path in life adrift and 
+lost. The Magaambya’s teachers maintained informal 
+schedules and often forced students to seek them 
+out, considering the journey a valuable lesson, yet 
+this method actively favored those with more social 
+confidence. Recognizing that talented youths were 
+being left behind by the Magaambya’s practices, 
+Takulu turned his research to a field that had often 
+taken second place to other academic concerns at the 
+university—the study of teaching itself.
+Like many subjects at the Magaambya, several scholars 
+had dabbled in this research, but their knowledge had 
+never been aggregated or catalogued. Takulu began the 
+slow process of testing these approaches and adding his 
+own refinements. He volunteered to personally teach 
+many of the new initiates, a task that was usually left up 
+to older students. The scholar also continued to tutor 
+students that failed to thrive, doing what he could to 
+learn the best methods of organizing lessons to help the 
+most people learn. 
+Imparting his knowledge to the rest of the 
+Magaambya has been slow. Teachers who thrived 
+under the self-guided tutelage of their mentors 
+prefer things to remain as they are. Others approve 
+of Takulu’s goals but consider the implementation a 
+project for him and his like-minded students, rather 
+than something to be broadly embraced. For now, 
+Takulu has satisfied his ambitions by making himself 
+a resource to a generation of incoming initiates and 
+by keeping notes on his process and observations 
+with the same precision that he applies to all of his 
+scholarly pursuits.
+In addition to his knowledge of magic and 
+mathematics, Takulu is a skilled diplomat, as he deals 
+with irate students and reticent academics on a daily 
+basis. He’s also a very capable mbira player. When not 
+teaching, he can be found watching birds on campus 
+or out in the city of Nantambu, where he’s usually 
+accompanied by his wife.
+Physically, Takulu is an average-looking man with 
+a friendly smile. He wears clothing with crisp patterns 
+Takulu Ot
+Kindly Teacher of Incoming Students
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+paizo.com #37838668, Anthony Gill <anthonygill08@gmail.com>, Jul 20, 2025
+26897493
+26897493
+26897493
+4651679
+4651679
+4651679
+
+=== PAGE 20 ===
+91
+Campaign  
+Overview 
+Chapter 1:  
+Orientation
+Chapter 2:  
+First of Many
+Chapter 3:  
+Stone-Cast 
+Shadows
+Life in the 
+Academy
+Students of the 
+Magaambya
+Adventure  
+Toolbox
+Kindled 
+Magic
+and happy colors, which somehow never have a 
+wrinkle on them no matter what the teacher has 
+been doing recently. He has a favored wooden staff 
+that he almost always carries with him—a gift from 
+a student, which sometimes sprouts a tiny fruit or 
+attracts a brave songbird—and also carries or wears 
+a small trinket in the shape of an anteater, as he has 
+a well-known and innocent delight for the animals. 
+His wholesome image often causes students to gossip 
+about him, making up conspiracy theories of violent 
+hobbies or a secret dark past, but 
+there’s no truth to these haphazard 
+stories. Takulu really is everything he 
+appears to be.
+CAMPAIGN ROLE
+Takulu is the first impression of the 
+Magaambya that this campaign offers, 
+serving as a kindly mentor to the heroes while 
+they are students and a reliable ally to them 
+after they outgrow his guidance. Even-tempered 
+and unbearably kind, Takulu can offer advice and 
+help to heroes who are struggling, including being 
+a mouthpiece for you to provide suggestions to 
+players who are struggling to find their character’s 
+role in the campaign. Although he answers to 
+Takulu when faculty members speak to him, 
+he prefers that students call him “Teacher 
+Ot.” When not teaching, he can usually be 
+found in his office on the top floor of the  
+Heron Archives.
+If placed into a dangerous situation, 
+Takulu’s first goal is to protect his 
+students, then anyone else in the area 
+who requires assistance. He isn’t a violent 
+man, nor is he very good at violence even if he 
+tries, meaning any combat aid he might offer in the 
+course of the Adventure Path is firmly relegated 
+to a support role.
+TAKULU OT CREATURE 4
+UNIQUE LG MEDIUM HUMAN HUMANOID
+Male human Cascade Bearer teacher
+Perception +11
+Languages Amurrun, Common, Elven, Iruxi, Sylvan, Xanmba
+Skills Academia Lore +13, Arcana +13, Diplomacy +11, 
+Library Lore +11, Nature +9, Performance +11
+Str –1, Dex +2, Con +1, Int +5, Wis +3, Cha +1
+Items anteater mask, potion of minor healing, staff
+AC 21; Fort +9, Ref +12, Will +12
+HP 60
+Quick Lesson [reaction] (auditory) Trigger An ally Takulu can see 
+and who can hear Takulu makes a skill check or an attack 
+roll; Effect Takulu grants the ally a +2 circumstance 
+bonus to the triggering check.
+Speed 25 feet
+Melee [one-action] staff +9 (two-hand d8), Damage 1d4+1 bludgeoning
+Arcane Prepared Spells DC 21, attack +13; 2nd comprehend 
+language, glitterdust, see invisibility; 1st heal, mending, 
+ray of enfeeblement ; Cantrips (2nd) daze, detect magic, 
+message, prestidigitation, read aura
+Takulu Ot
+
