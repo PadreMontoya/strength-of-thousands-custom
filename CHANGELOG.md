@@ -5,6 +5,34 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0] - 2025-08-30
+
+### Fixed
+- **Removed Duplicate Year of the Initiate**: Fixed issue where journal appeared twice in the database
+- **Correct Campus Locations**: Updated Year of the Initiate to use the official 20 locations from book2-year-of-the-initiate-draft.md
+- **Teachers and Staff Visibility**: Changed Teachers and Staff journal to be visible to players (with GM-only roleplay sections)
+- **Enhanced Faculty Roleplay**: Added Key Character Traits, speech patterns, and physical mannerisms for all teachers (GM-only sections)
+
+### Changed
+- **Official Location Names**: Updated to match the exact 20 locations from the official draft:
+  1. Welcome Road, 2. Tree-Stump Library, 3. Storage Barn, 4. Archhorn Library, 5. The Between
+  6. Elephant Museum (Emerald Boughs Class), 7. Warden House (Uzunjati Class), 8. Tireless Hall
+  9. Heron Archives (Rain-Scribes Class), 10. Indigo Hall (Cascade Bearers Class), 11. Shifting Greenhouse
+  12. Whistle Tower, 13. Verdant House, 14. Powderpile, 15. Sparring Field (Tempest-Sun Mages Starday Tournament)
+  16. Leshy Gardens, 17. Spire Dormitory, 18. Dining Hall, 19. Sun Dormitory, 20. Speaker's Stage
+- **Faculty Information**: Enhanced all teacher descriptions with detailed roleplay guidance for GMs
+- **Journal Organization**: Improved structure to eliminate duplicate content and ensure proper visibility
+
+### Added
+- **GM Roleplay Sections**: Each teacher now includes Key Character Traits, Things They Might Say, Speech Mannerisms, and Physical Mannerisms
+- **Official Location Content**: Detailed descriptions and activities for all 20 official campus locations
+- **Branch-Specific Classes**: Proper class locations and requirements for each magical branch
+
+### Technical
+- Fixed database structure to prevent duplicate journal entries
+- Improved ownership settings for proper content visibility
+- Enhanced GM-only content organization with proper data-visibility tags
+
 ## [1.5.0] - 2025-08-30
 
 ### Added
