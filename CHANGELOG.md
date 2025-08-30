@@ -5,6 +5,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.0] - 2025-08-30
+
+### Fixed
+- **COMPLETE MODULE REBUILD**: Completely rebuilt journals.db from scratch with proper JSON structure
+- **Eliminated All Duplicates**: No more duplicate journals of any kind
+- **Restored All Content**: Year of the Initiate (20 locations), Magaambya NPCs (students), Teachers and Staff
+- **Proper Database Format**: Each journal entry is now a complete, valid JSON object on its own line
+- **Foundry v13 Compatibility**: Verified to work correctly with Foundry VTT v13
+
+### Added
+- **Complete 3-Journal Structure**: Exactly 3 journals with proper content and organization
+- **All 20 Official Locations**: Year of the Initiate includes all locations from official draft
+- **Sample Roleplay Content**: Teacher Takulu Ot includes complete GM-only roleplay information as example
+- **Student NPC Content**: Anchor Root included as example of complete student NPC with roleplay info
+
+### Changed
+- **Database Architecture**: Rebuilt from ground up instead of patching corrupted files
+- **JSON Structure**: Proper line-by-line format that Foundry can correctly parse
+- **Content Organization**: Clear separation between player-visible and GM-only content
+
+### Technical
+- Fixed malformed JSON that was causing content to disappear
+- Proper data-visibility tags for GM-only sections
+- Consistent ID structure across all journal entries
+- Eliminated database corruption issues that were causing inconsistent behavior
+
 ## [1.8.0] - 2025-08-30
 
 ### Fixed
