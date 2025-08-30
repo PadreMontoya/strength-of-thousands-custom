@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0] - 2025-08-30
+
+### Fixed
+- **Item Icons**: Fixed broken item icons by using working Foundry icon path `icons/commodities/gems/gem-faceted-diamond-pink-gold.webp`
+- **Duplicate Journals**: Removed duplicate "Year of the Initiate" journal entries
+- **Missing Journal Pages**: Added missing campus locations to Year of the Initiate journal
+- **Missing NPCs**: Added missing student NPCs to Magaambya NPCs journal
+- **Repository Visibility**: Made repository public to enable proper module installation
+
+### Added
+- Additional campus locations (Dining Hall, Uzunjati Halls, Tireless Hall, etc.)
+- Complete NPC entries for all 9 major student NPCs
+- Rebuild scripts for fixing journal content in Foundry VTT
+- Improved journal structure and organization
+
+### Changed
+- Updated all friendship bead icons to use consistent, working icon
+- Enhanced journal content with more detailed descriptions
+- Improved GM-only content organization
+
 ## [1.0.0] - 2025-08-30
 
 ### Added
