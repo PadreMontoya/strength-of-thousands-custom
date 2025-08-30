@@ -5,6 +5,44 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.0] - 2025-08-30
+
+### Enhanced
+- **COMPLETE YEAR OF THE INITIATE CONTENT**: Populated all 20 location pages with rich, detailed content from the draft document
+- **GM Events and Adventures**: Added comprehensive GM-only sections with events, adventures, and roleplay opportunities for every location
+- **Class Content**: Added detailed class lessons, trivia questions, and after-class activities for branch-specific locations
+- **Student Activities**: Added specific activities available at each location (Study, Cram, Field Research)
+- **NPC Interactions**: Added detailed NPC encounters and social events throughout campus
+- **Adventure Hooks**: Added mini-adventures and quests that can be triggered at various locations
+
+### Added
+- **Welcome Road**: Theory vs Practice debate event with Esi and Haibram
+- **Tree-Stump Library**: GM notes about Stone Ghost's tunnels and future adventures
+- **Storage Barn**: Tunnel investigation foreshadowing with fresh footprints
+- **Archhorn Library**: Kesi rescue event with cultural research rewards
+- **The Between**: Chizire and Mariama's flavor-changing ale drinking contest
+- **Elephant Museum**: Teacher Zuma's class on supernatural political influence + Monochrome Murmurs project
+- **Warden House**: Teacher Janatimo's indirect inquiry assignment with practical examples
+- **Tireless Hall**: First Masking ceremony discussions with family dynamics
+- **Heron Archives**: Teacher Koride's decomposer insects class + Bug Problems quest
+- **Indigo Hall**: Teacher Takulu's innovation class + reading list quest
+- **Shifting Greenhouse**: Mariama's vine lasher entanglement rescue
+- **Whistle Tower**: Ignaci's stealth escape scenario
+- **Verdant House**: Okoro's plant communication experiment gone wrong
+- **Powderpile**: Leshy Gardens fundraiser raffle with magical prizes
+- **Sparring Field**: Tournament details and training session information
+- **Leshy Gardens**: Cricket theft adventure for Chizire's brewing experiments
+- **Spire Dormitory**: Haibram's hang glider leap adventure
+- **Dining Hall**: Tzeniwe's surprise birthday party planning
+- **Sun Dormitory**: Ignaci and Okoro romance subplot
+- **Speaker's Stage**: Okoro's complex board game with hidden scroll
+
+### Technical
+- All GM content properly tagged with data-visibility="gm"
+- Rich HTML formatting with proper headers and lists
+- Detailed skill checks and DC requirements for all adventures
+- Complete integration with existing NPC personalities and relationships
+
 ## [1.11.0] - 2025-08-30
 
 ### Fixed
