@@ -5,6 +5,35 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.10.0] - 2025-08-30
+
+### Fixed
+- **COMPLETE STUDENT NPC ROSTER**: Added all missing 8 student NPCs to Magaambya NPCs journal
+- **Full Roleplay Information**: Each student now includes complete GM-only roleplay sections
+- **Proper Character Development**: All 9 students have detailed personalities, quirks, and relationships
+
+### Added
+- **Chizire (Cascade Bearer)**: Lazy but innovative alchemist with experimental brews
+- **Esi Djana (Tempest-Sun Mage)**: Brilliant organizer and campus social hub
+- **Haibram Thodja (Rain-Scribe)**: Reckless daredevil and adrenaline junkie
+- **Ignaci Canterells (Emerald Bough)**: Passionate revolutionary and cryptography expert
+- **Mariama Keitana (Cascade Bearer)**: Chaotic witch with unpredictable magic
+- **Noxolo (Uzunjati)**: Talented oracle and traditional dancer
+- **Okoro Obiyo (Uzunjati)**: Enthusiastic scholar-athlete with monthly obsessions
+- **Tzeniwe (Emerald Bough)**: Nurturing anadi textile artist and caretaker
+
+### Enhanced
+- **Complete GM Roleplay Sections**: Each student includes Key Character Traits, Things They Might Say, Speech Mannerisms, and Physical Mannerisms
+- **Student Relationships**: Detailed "Common Associates" showing how students interact with each other
+- **Branch Representation**: All 5 magical branches properly represented across the 9 students
+- **Friendship Bead Integration**: Each student page references their corresponding friendship bead
+
+### Technical
+- Proper JSON structure maintained with all 10 pages (1 overview + 9 students)
+- Correct data-visibility tags for GM-only content
+- Sequential sort order for all student pages
+- Consistent ID structure and formatting
+
 ## [1.9.0] - 2025-08-30
 
 ### Fixed
