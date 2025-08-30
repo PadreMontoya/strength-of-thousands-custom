@@ -5,6 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2025-08-30
+
+### Fixed
+- **Complete Journal Content**: Fixed Year of the Initiate journal to show all 14 campus locations instead of just 6
+- **All Student NPCs**: Fixed Magaambya NPCs journal to include all 9 student NPCs instead of just 2
+- **Broken UUID Links**: Removed broken UUID links for friendship beads (items still work correctly)
+- **Download URL**: Fixed module download URL to match uploaded ZIP filename
+
+### Added
+- Additional campus locations: Uzunjati Halls, Tireless Hall, Heron Archives, Indigo Hall, Emerald Bough Towers, Tempest-Sun Spire, Leshy Gardens, Student Dormitories
+- Complete NPC entries: Esi Djana, Haibram Thodja, Ignaci Canterells, Mariama Keitana, Noxolo, Okoro Obiyo, Tzeniwe
+- Helper scripts for adding missing content in Foundry VTT
+- Comprehensive campus location descriptions with GM events
+
+### Changed
+- Improved journal database structure for better content organization
+- Enhanced NPC descriptions with detailed personality traits and roleplay guidance
+- Better separation of player-visible and GM-only content
+
 ## [1.1.0] - 2025-08-30
 
 ### Fixed
