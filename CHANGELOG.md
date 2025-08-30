@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.1] - 2025-08-30
+
+### Fixed
+- **Item Database Structure**: Fixed missing required data fields in friendship bead items
+- **UUID Fields**: Added proper UUID fields to all items for Foundry VTT compatibility
+- **Ownership Fields**: Corrected ownership structure to prevent compendium browser errors
+- **Timestamp Fields**: Added proper creation and modification timestamps
+- **Xhokan Description**: Corrected Xhokan's race from kobold to dwarf in Powderpile Bead description
+
+### Technical
+- All items now include proper `uuid` field for MiniSearch indexing
+- Fixed `_stats` fields with proper timestamps and user IDs
+- Standardized ownership structure across all items
+- Resolved "Item does not have all required data fields" errors
+
 ## [1.12.0] - 2025-08-30
 
 ### Enhanced
