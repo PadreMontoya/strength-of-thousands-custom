@@ -5,6 +5,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.0] - 2025-08-30
+
+### Fixed
+- **FINAL FIX**: Completely rebuilt journals.db with ALL content properly structured
+- **All 9 Student NPCs**: Magaambya NPCs journal now contains every single student NPC
+- **All 20 Campus Locations**: Year of the Initiate journal now shows locations 1-20
+- **Complete Database**: No more missing pages, all content loads correctly in Foundry VTT
+
+### Added
+- All missing NPCs: Haibram Thodja, Ignaci Canterells, Mariama Keitana, Noxolo, Okoro Obiyo, Tzeniwe
+- Additional campus locations: 15-20 (branch-specific dormitories and faculty quarters)
+- Complete NPC information with detailed personality traits and roleplay guidance
+- Proper friendship bead references with mechanical benefits
+
+### Changed
+- Rebuilt entire journals database from scratch with proper JSON structure
+- Enhanced all NPC descriptions with comprehensive information
+- Improved campus location descriptions with activities and GM events
+- Fixed all data structure issues that were causing missing content
+
+### Technical
+- Complete journals.db rebuild ensures all content loads properly
+- Proper JSON formatting prevents parsing errors
+- All pages have correct sort orders and IDs
+- Database structure optimized for Foundry VTT compatibility
+
 ## [1.3.0] - 2025-08-30
 
 ### Fixed
