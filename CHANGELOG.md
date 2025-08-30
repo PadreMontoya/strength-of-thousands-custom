@@ -5,6 +5,30 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.0] - 2025-08-30
+
+### Fixed
+- **Fixed Journal Database Structure**: Completely rebuilt journals.db to eliminate all duplicate entries
+- **Restored Year of the Initiate**: Now properly includes all 20 official campus locations from the draft
+- **Proper Journal Organization**: Ensured exactly 3 journals with correct content and structure
+- **Foundry v13 Compatibility**: Tested and verified to work with Foundry VTT v13
+
+### Added
+- **Complete Teacher Roleplay Documentation**: All 14 faculty and staff documented in book2-Magaambya-NPCs.md
+- **Roleplay Addition Script**: New script to add GM-only roleplay information to teacher journals
+- **Official 20 Campus Locations**: Year of the Initiate now includes all locations from official draft
+
+### Changed
+- **Database Structure**: Rebuilt from scratch to ensure no duplicates or corruption
+- **Documentation First**: All roleplay information documented in markdown before Foundry implementation
+- **Simplified Fix Process**: Single script to add missing roleplay information
+
+### Technical
+- Fixed malformed JSON in journals.db that was causing import issues
+- Removed duplicate journal entries that were confusing the compendium
+- Proper data-visibility tags for GM-only content
+- Enhanced error handling in fix scripts
+
 ## [1.7.0] - 2025-08-30
 
 ### Fixed
