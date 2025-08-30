@@ -464,6 +464,19 @@ Among the topics he researches and teaches are mathematics, with particular focu
 #### Role in the Academy
 As one of the primary instructors for new initiates, Teacher Ot handles admissions interviews, orientation, and major ceremonies. He's a recurring friend that students can go to for help, guidance, and all-around support. He emphasizes that "the price of magic is the responsibility to better the world."
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Kind • Patient • Wise • Nurturing • Philosophical
+
+**Things Teacher Takulu Might Say:**
+- *"Remember, the price of magic is the responsibility to better the world. How will you use what you learn here?"*
+- *"Mathematics isn't just numbers - it's the language the universe uses to describe itself. Listen carefully."*
+- *"My wife always says that teaching is like tending a garden - you plant seeds of knowledge and watch them grow in unexpected ways."*
+- *"You know, anteaters are fascinating creatures. They're so specialized, yet so perfectly adapted to their role. Much like how each of you will find your own perfect role in the world."*
+
+**Speech Mannerism:** Often relates lessons to stories about his wife or observations about anteaters. Speaks slowly and thoughtfully, pausing to let important concepts sink in. Uses gentle questions to guide students to discoveries rather than lecturing directly.
+
+**Physical Mannerism:** Adjusts his colorful clothing when thinking, and often sketches geometric patterns in the air while explaining concepts. Has a habit of touching his heart when speaking about his wife or students he cares about.
+
 ---
 
 ### Teacher Lesedi (Cascade Bearer - Extraplanar Scholar)
@@ -478,6 +491,19 @@ However, despite her outward appearance and demon-bone accessories, Lesedi is be
 Lesedi researches all things extraplanar. If anyone wants to travel beyond the Material Plane, she's the leading expert to talk to. She has information not just on how to get there, but how to handle the denizens, what to expect, and all around how to survive. Lesedi does not just study the fiendish end of extraplanars but is more than knowledgeable on celestials, monitors, and all sorts of outsiders.
 
 Even more than that, she's researching into interstellar expeditions. She was alive for the launch of Lirgen's Glory and is still upset from the tragedy.
+
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Intimidating • Precise • Sweet (underneath) • Demanding • Protective
+
+**Things Teacher Lesedi Might Say:**
+- *"That pronunciation could summon a lemure instead of a lantern archon. Do you want to explain to the academy why there's a devil in the classroom?"*
+- *"Excellent work! See how much you can accomplish when you apply yourself properly?"* (said immediately after harsh criticism)
+- *"The Alijae learned long ago that small mistakes with extraplanar magic lead to large problems. Precision saves lives."*
+- *"I sense mischief brewing. Would you care to share your plans with the class, or shall I divine them myself?"*
+
+**Speech Mannerism:** Alternates between sharp criticism and warm praise within the same sentence. Uses technical terms precisely and expects students to do the same. Has an uncanny ability to know what students are thinking or planning.
+
+**Physical Mannerism:** Touches her demon-bone accessories when concentrating, and her eyes seem to glow slightly when she's particularly focused or upset. Stands very straight and still when lecturing, but moves with fluid grace when demonstrating magic.
 
 ---
 
@@ -494,6 +520,19 @@ Zuma's study into devil-worshipping cults and conspiracies has made him paranoid
 
 His classes range from details of eminently useful rituals to utterly nonsensical ramblings, often within the space of only a few minutes.
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Paranoid • Passionate • Eccentric • Knowledgeable • Overzealous
+
+**Things Teacher Zuma Might Say:**
+- *"You think I'm paranoid? Good! Paranoia is just pattern recognition applied to threats you can't see yet!"*
+- *"The Chelish government's new trade policies make perfect sense... if you assume they're being advised by contract devils. Which they probably are."*
+- *"This protection ward will keep you safe from scrying, charm effects, and most forms of mental manipulation. You'll thank me when the mind-controlled assassins don't find you."*
+- *"Do you see the pattern? No? Look closer - it's all connected!"*
+
+**Speech Mannerism:** Speaks rapidly when excited about a theory, often jumping between topics as new connections occur to him. Frequently asks "Do you see the pattern?" and assumes everyone shares his level of paranoia.
+
+**Physical Mannerism:** Constantly fidgets with protective amulets and charms. Draws complex diagrams showing supposed connections between seemingly unrelated events. Looks over his shoulder frequently and whispers when discussing "sensitive" topics.
+
 ---
 
 ### Teacher Koride Ulawa (Rain-Scribe - Naturalist)
@@ -506,6 +545,19 @@ However, Koride is not uniquely villainous. She's a very fun teacher who's happy
 
 #### Teaching Style & Research
 Koride is well-known for her lackadaisical approach to teaching. However, she does enjoy teaching about bugs and seems to have a particular interest in detritovores. She feels such bugs are underappreciated by many cultures who fail to see the value and necessity of such animals in the web of life. Her favorite research areas are the parts of nature that many people find repulsive: fungus, decay, and insects. She's the Magaambya's most skilled entomologist in generations.
+
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Lazy • Biting • Passionate (about bugs) • Cruel • Fun-loving
+
+**Things Teacher Koride Might Say:**
+- *"Oh, you think that's disgusting? Wait until you see what happens when a corpse beetle finds a fresh carcass. Now THAT'S beautiful."*
+- *"Your assignment is late. Again. I suppose I should give you detention, but honestly, I can't be bothered to supervise it."*
+- *"These little beauties"* (holding up a jar of beetles) *"do more for the ecosystem in a day than most people do in a lifetime."*
+- *"Class is canceled today. My prize dung beetle just laid eggs and I need to monitor the process."*
+
+**Speech Mannerism:** Alternates between bored, sarcastic comments and passionate enthusiasm when discussing insects. Often makes cutting remarks about student performance but gets distracted by bug-related topics.
+
+**Physical Mannerism:** Always has at least one insect container or specimen with her. Frequently checks on her "pets" during conversations. Slouches when bored but perks up dramatically when bugs are mentioned.
 
 ---
 
@@ -521,6 +573,19 @@ He has a major crush on Tahenkot and is uncharacteristically anxious around her.
 #### Teaching Style
 Izem's expertise is so incredibly broad that he makes a great teacher for information that can't fit elsewhere. His lectures would be of particular use as they often include first-hand recounts of his escapades. However, he might not be the best professor from an academic standpoint as his lectures would often be derailed by these lengthy stories.
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Brilliant • Adventurous • Confident • Anxious (around Tahenkot) • Heroic
+
+**Things Teacher Izem Might Say:**
+- *"This reminds me of the time I was exploring the Darklands and encountered a tribe of duergar who had been corrupted by... oh, but that's getting ahead of the lesson."*
+- *"The theoretical framework is important, but let me tell you what it's actually like when you're face-to-face with a pit fiend."*
+- *"I, uh... I should probably check with Teacher Tahenkot about... um... the curriculum alignment for this topic."* (when she's mentioned)
+- *"Knowledge without experience is just trivia. Experience without knowledge gets you killed."*
+
+**Speech Mannerism:** Speaks with supreme confidence about most topics but becomes stammering and uncertain when Tahenkot is around or mentioned. Often starts academic points with adventure stories.
+
+**Physical Mannerism:** Stands tall and confident normally, but fidgets with his wings and looks down when nervous around Tahenkot. Often gestures dramatically when telling adventure stories.
+
 ---
 
 ### Teacher Mafika Ayuwari (Tempest-Sun Mage - Martial Artist)
@@ -534,6 +599,19 @@ Mafika encourages his students to take care of themselves, but not in a toxic gy
 
 #### Expertise & Classes
 Mafika's line of expertise is simply martial arts. His magic pertains towards combat and involves a lot of sparring matches. If the school has any major sports, Mafika is surely involved and shamelessly promoting student engagement. This includes non-competitive sports such as rock-climbing, various forms of boating and swimming, dancing, and more. However, his lectures are interrupted in a similar manner to other adventuring professors by anecdotes of his latest escapades.
+
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Caring • Athletic • Enthusiastic • Nurturing • Energetic
+
+**Things Teacher Mafika Might Say:**
+- *"You look tired! Have you been eating enough? Here, I brought extra soup for the class."*
+- *"In the Ruby Phoenix Tournament, we learned that true strength comes from taking care of your body AND your spirit."*
+- *"No, no, no - you're holding tension in your shoulders. Breathe deeply, center yourself, then try the technique again."*
+- *"Physical fitness isn't about looking good - it's about being ready for whatever life throws at you."*
+
+**Speech Mannerism:** Speaks with genuine concern for students' wellbeing. Often interrupts lessons to check if students have eaten or slept enough. Relates everything back to physical and mental health.
+
+**Physical Mannerism:** Always moving - stretching, doing small exercises, or demonstrating techniques. Offers food to students constantly. Checks posture and suggests physical adjustments even during non-combat lessons.
 
 ---
 
@@ -549,6 +627,19 @@ Tahenkot's lectures do not have a singular topic that relates them all. Instead,
 #### Student Relations
 Meetings with her will involve some amounts of criticism, but she directs her fury mainly onto students like Haibram, Chizire, and Mariama rather than more sensitive students. Her high standards mean that when she does give genuine compliments, they carry significant weight.
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Demanding • Harsh • High Standards • Fair • Intellectually Rigorous
+
+**Things Teacher Tahenkot Might Say:**
+- *"This work is adequate. Barely. I know you're capable of much better, so why are you settling for mediocrity?"*
+- *"Excellent analysis! This is exactly the level of critical thinking I expect from my students."*
+- *"Mr. Thodja, your reckless approach to magic is matched only by your reckless approach to homework. Sit down and pay attention."*
+- *"Question everything, including what I'm teaching you. The moment you stop thinking critically is the moment you stop learning."*
+
+**Speech Mannerism:** Speaks with precise diction and expects the same from students. Uses cutting criticism followed by constructive guidance. Never raises her voice but can convey disappointment with devastating effectiveness.
+
+**Physical Mannerism:** Maintains perfect posture and expects students to do the same. Taps her quill when thinking. Has a piercing stare that seems to see through excuses and half-truths.
+
 ---
 
 ### Teacher Ahassunu (Uzunjati - Historian)
@@ -561,6 +652,19 @@ However, she's not absent-minded by any means and, in stark contrast, is very ea
 
 #### Teaching & Research
 Ahassunu is deeply interested in the history of other cultures. Her lectures would involve long discussions on the developments of various nations, cities, and peoples in the Mwangi Expanse and beyond. As such, this lizardfolk is likely incredibly multilingual and, if any students are in one of her language classes, will exclusively speak to them in that language. She will also be able to greet and converse with students in their first languages with the efficacy of a native speaker.
+
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Absentminded • Enthusiastic • Knowledgeable • Forgetful • Multilingual
+
+**Things Teacher Ahassunu Might Say:**
+- *"Oh! Class started an hour ago, didn't it? I was just reading about the most fascinating trade routes between ancient Osirion and... where was I?"*
+- *"The fall of Yamasa is such a tragic tale - the political maneuvering, the cultural implications, the linguistic evolution that followed..."* (continues for 20 minutes)
+- *"Bonjour! Guten Tag! Konnichiwa!"* (greeting students in their native languages)
+- *"Time? What time? Oh dear, I've missed three appointments, haven't I?"*
+
+**Speech Mannerism:** Switches between languages mid-sentence when excited. Gets completely absorbed in historical details and loses track of time and surroundings. Speaks with infectious enthusiasm about cultural topics.
+
+**Physical Mannerism:** Often found with ink stains on her claws from taking notes. Frequently looks confused about where she is or what time it is. Tail swishes excitedly when discussing favorite historical topics.
 
 ---
 
@@ -578,6 +682,19 @@ If there are any bards in the group, she's by far the best person to get inspira
 
 **Note:** Nhyira is genderfluid and will express herself differently over the course of the adventure.
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Theatrical • Witty • Sarcastic • Creative • High Standards
+
+**Things Teacher Nhyira Might Say:**
+- *"That performance was... adequate. If your goal was to cure insomnia, you succeeded brilliantly."*
+- *"History isn't just facts and dates - it's drama, passion, betrayal, triumph! Make me FEEL the fall of empires!"*
+- *"Your essay reads like a shopping list. Where's the narrative arc? The character development? The emotional resonance?"*
+- *"Darling, if you're going to fail, at least fail with style and conviction."*
+
+**Speech Mannerism:** Speaks with theatrical flair and dramatic emphasis. Uses cutting wit and sarcasm but always with the intent to motivate improvement. Frequently quotes literature and makes theatrical references.
+
+**Physical Mannerism:** Gestures dramatically while speaking, as if always performing. Changes posture and mannerisms subtly as gender expression shifts. Often strikes poses that would look natural on stage.
+
 ---
 
 ### Teacher Janatimo (Uzunjati - Branch Head)
@@ -589,6 +706,19 @@ Janatimo is the current head of the Uzunjati branch and as such is a manifestati
 #### Teaching Philosophy
 Janatimo has a way of making students question what they hear and how they hear it, encouraging everyone to dig deeper into the stories they hear. As the branch head, he embodies the Uzunjati focus on expression through art and storytelling, as well as philosophical questions about how language affects thought and how the telling of history changes over time and across cultures.
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Wise • Patient • Listening • Thoughtful • Philosophical
+
+**Things Teacher Janatimo Might Say:**
+- *"Tell me your story, and I'll tell you who you are. But first, tell me who you think you are, and I'll tell you what story you've been telling yourself."*
+- *"The most important stories are the ones we don't realize we're telling."*
+- *"Every culture has a different word for 'home.' What does that tell us about how they see the world?"*
+- *"I'm more interested in the story you didn't tell me than the one you did."*
+
+**Speech Mannerism:** Speaks slowly and thoughtfully, often pausing to really listen to responses. Asks probing questions that make students think deeper about their assumptions and beliefs.
+
+**Physical Mannerism:** Leans forward when listening, giving complete attention to whoever is speaking. Often strokes his chin when thinking. Has a habit of nodding encouragingly to draw out more details from storytellers.
+
 ---
 
 ## Other Staff Members
@@ -598,20 +728,72 @@ Janatimo has a way of making students question what they hear and how they hear 
 
 Lumusi Yao is a kindly chef who cares about the health of the Magaambya. She makes a point of coming out to greet new students and welcoming them to the dining hall, which she considers her domain. She notes that students receive two meals every day and that the dining hall is open from sunrise until two hours after sunset. She is nearly constantly cooking, as she does have to feed the whole school, and is rarely seen away from the kitchen.
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Nurturing • Protective • Hardworking • Welcoming • Motherly
+
+**Things Lumusi Might Say:**
+- *"Welcome to my kitchen, dear! You look too thin - have you been eating properly?"*
+- *"This dining hall feeds over 500 people every day. It's not just about the food, it's about bringing everyone together."*
+- *"I don't care what branch you're in - everyone needs good food and a warm welcome."*
+- *"If you're ever homesick, come find me. I'll make you something that tastes like home."*
+
+**Speech Mannerism:** Speaks with warm, maternal concern. Always asking if people have eaten enough. Uses terms of endearment like "dear," "child," and "sweetheart."
+
+**Physical Mannerism:** Always has flour or food stains on her apron. Frequently offers food to anyone who enters her domain. Wipes hands on her apron when nervous or thinking.
+
 ### Xhokan (Quartermaster)
 **Meticulous quartermaster**
 
 Xhokan is incredibly organized and meticulous. He knows everything coming into his store and going out. He'll have records about where it came from, how long he's had it, what quality it is, any and all hazards related to it, and all around too much information for most students. As the academy's quartermaster, he manages supplies and equipment for students and faculty.
+
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Meticulous • Organized • Knowledgeable • Overwhelming • Precise
+
+**Things Xhokan Might Say:**
+- *"Ah yes, you need silver ink. I have three varieties: Chelish ceremonial grade, Osirian standard, and Varisian artisan quality. Each has different viscosity, magical conductivity, and shelf life..."*
+- *"That component was harvested on the 15th of Pharast from the eastern slopes of the Barrier Wall, processed by Merchant House Goldcrest, and has been in my inventory for exactly 47 days."*
+- *"No, no, you can't just grab any old parchment! This spell requires vellum with specific preparation methods!"*
+- *"I maintain detailed records of every transaction. Would you like to see the procurement history of this item?"*
+
+**Speech Mannerism:** Provides far more detail than anyone wants or needs. Speaks with precise technical language and expects others to appreciate the importance of proper inventory management.
+
+**Physical Mannerism:** Constantly checking lists and making notes. Arranges items with obsessive precision. Becomes visibly agitated when things are out of place or improperly categorized.
 
 ### Thema (Senior Landscaper)
 **CG female elf gardener**
 
 Thema is the most senior landscaper in the Magaambya. She likely takes care of the leshy gardens and shifting greenhouse. As the chief groundskeeper, she manages the academy's extensive gardens and green spaces, including the specialized areas where magical plants and leshys reside. She discourages the leshys from ranging far from their patch of overgrown land because they have a tendency to cause mischief.
 
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Patient • Wise • Protective • Practical • Nature-loving
+
+**Things Thema Might Say:**
+- *"The leshys mean well, but they're like children - give them an inch and they'll take a mile. And probably replant it with something that shouldn't exist."*
+- *"Every plant here has a purpose, even the ones that look like weeds. Nature doesn't make mistakes, only gardeners do."*
+- *"Students think magic makes gardening easy. Ha! Magic makes it more complicated. Now I have to worry about plants that think for themselves."*
+- *"Respect the green spaces, and they'll respect you. Harm them, and... well, let's just say some of these plants hold grudges."*
+
+**Speech Mannerism:** Speaks with the patience of someone who works with growing things. Often uses gardening metaphors for life lessons. Has a dry sense of humor about the challenges of magical horticulture.
+
+**Physical Mannerism:** Always has dirt under her fingernails and plant matter in her hair. Frequently touches or examines plants while talking. Moves with the quiet confidence of someone completely at home in nature.
+
 ### High-Sun Mage Oyamba (Academy Leader)
 **Academy Leader**
 
 High-Sun Mage Oyamba is the Magaambya's current leader. What characterization is available suggests he's graceful and charismatic, befitting his position as head of the world's oldest magical academy. While he plays a significant role in later books, he is never given too much screen time and serves largely as a quest-giver during the early adventures.
+
+#### Roleplay Information (GM Only)
+**Key Character Traits:** Graceful • Charismatic • Wise • Authoritative • Diplomatic
+
+**Things High-Sun Mage Oyamba Might Say:**
+- *"The Magaambya has stood for millennia because we adapt while holding true to our core principles. You represent that future."*
+- *"Every student who walks these halls carries the potential to change the world. My job is to ensure they're prepared for that responsibility."*
+- *"Magic is not just power - it is connection, understanding, and the bridge between what is and what could be."*
+- *"The academy's greatest strength has always been its diversity of thought and approach. Never forget that."*
+
+**Speech Mannerism:** Speaks with measured authority and genuine warmth. Uses formal language but makes it feel personal and caring. Often references the academy's long history and traditions.
+
+**Physical Mannerism:** Maintains perfect composure and dignity. Gestures gracefully when speaking. Has a way of making whoever he's speaking with feel like they have his complete attention and respect.
 
 ---
 

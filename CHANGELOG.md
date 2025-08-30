@@ -5,6 +5,30 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.0] - 2025-08-30
+
+### Fixed
+- **Removed Duplicate Teachers and Staff Journals**: Fixed issue where "Magaambya Teachers and Staff" appeared twice
+- **Restored Missing Year of the Initiate**: Fixed issue where Year of the Initiate journal vanished
+- **Complete Teacher Roleplay Information**: All faculty now have comprehensive GM-only roleplay sections
+- **Proper Journal Structure**: Ensured correct number and organization of all journals
+
+### Added
+- **Complete Teacher Roleplay Documentation**: Added to book2-Magaambya-NPCs.md for all 10 teachers and 4 staff members
+- **Enhanced GM Information**: Each teacher now includes Key Character Traits, Things They Might Say, Speech Mannerisms, and Physical Mannerisms
+- **Comprehensive Fix Script**: v1.7.0 script addresses all current journal issues
+
+### Changed
+- **Documentation First Approach**: All roleplay information documented in markdown before implementation
+- **Improved Fix Scripts**: More robust handling of duplicate journals and missing content
+- **Better Error Recovery**: Scripts now properly restore missing journals instead of just fixing existing ones
+
+### Technical
+- Enhanced fix script handles edge cases where journals are completely missing
+- Improved duplicate detection and removal logic
+- Better integration between documentation and Foundry implementation
+- Proper ownership settings for all journal types
+
 ## [1.6.0] - 2025-08-30
 
 ### Fixed
