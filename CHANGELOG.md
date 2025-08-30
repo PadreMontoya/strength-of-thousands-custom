@@ -5,6 +5,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.11.0] - 2025-08-30
+
+### Fixed
+- **COMPLETE FACULTY ROSTER**: Added all missing 12 teachers and staff to Teachers and Staff journal
+- **Full Branch Coverage**: All 5 magical branches now have proper teacher representation
+- **Complete Staff Coverage**: Added all key staff members (Head Cook, Quartermaster, Academy Leader)
+
+### Added
+- **Teacher Lesedi (Cascade Bearer)**: Intimidating Alijae elf extraplanar scholar
+- **Teacher Zuma (Emerald Bough)**: Eccentric half-orc conspiracy theorist and defensive magic expert
+- **Teacher Koride Ulawa (Rain-Scribe)**: Lazy but passionate entomologist and naturalist
+- **Teacher Izem Mezitani (Rain-Scribe)**: Brilliant aasimar archaeologist and active adventurer
+- **Teacher Mafika Ayuwari (Tempest-Sun Mage)**: Caring martial artist and Ruby Phoenix Tournament veteran
+- **Teacher Tahenkot (Tempest-Sun Mage)**: Demanding scholar with high academic standards
+- **Teacher Ahassunu (Uzunjati)**: Absentminded iruxi historian and multilingual expert
+- **Teacher Nhyira (Uzunjati)**: Genderfluid elf playwright and theatrical writer
+- **Teacher Janatimo (Uzunjati)**: Wise branch head specializing in storytelling and cultural preservation
+- **Lumusi Yao (Head Cook)**: Nurturing head cook who serves as unofficial counselor
+- **Xhokan (Quartermaster)**: Gruff but fair dwarf who runs the Powderpile supply store
+- **High-Sun Mage Oyamba (Academy Leader)**: Wise academy leader representing institutional authority
+
+### Enhanced
+- **Complete GM Roleplay Sections**: All faculty include Key Character Traits, Things They Might Say, Speech Mannerisms, and Physical Mannerisms
+- **Branch Representation**: Each magical branch now has multiple teacher representatives
+- **Staff Integration**: Key staff members now properly integrated with location references (Dining Hall, Powderpile)
+- **Character Relationships**: Added personality dynamics (Izem's crush on Tahenkot, teacher interactions with specific students)
+- **Teaching Specializations**: Each faculty member has distinct expertise and teaching style
+
+### Technical
+- Proper JSON structure maintained with all 14 pages (1 overview + 10 teachers + 3 staff)
+- Correct data-visibility tags for GM-only content
+- Sequential sort order for all faculty pages
+- Consistent ID structure and formatting
+
 ## [1.10.0] - 2025-08-30
 
 ### Fixed
