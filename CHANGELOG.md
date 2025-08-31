@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.2] - 2025-08-30
+
+### Fixed
+- **Compendium Browser Compatibility**: Added missing `level` and `price` fields to all equipment items
+- **Pack Name Specificity**: Changed pack name from "items" to "strength-of-thousands-items" to avoid conflicts
+- **PF2e v7.4.3 Compatibility**: Ensured all items meet current Pathfinder 2e system requirements
+- **MiniSearch Indexing**: Resolved remaining UUID indexing issues in compendium browser
+
+### Technical
+- All equipment items now include required `level` field (set to 0 for mundane items)
+- All equipment items now include required `price` field (set to 1 sp for friendship beads)
+- Updated pack name to be more specific and avoid naming conflicts
+- Enhanced compatibility with PF2e system version 7.4.3
+
 ## [1.12.1] - 2025-08-30
 
 ### Fixed
