@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.4] - 2025-08-30
+
+### Fixed
+- **Item Database Structure**: Fixed field ordering to match PF2e system expectations
+- **Missing Slug Fields**: Added required `slug` field to all items for proper indexing
+- **Compendium Browser Compatibility**: Restructured items to follow working module patterns
+- **MiniSearch Integration**: Ensured items have all required fields for search indexing
+
+### Technical
+- Reordered JSON fields to match successful PF2e modules (`_id`, `img`, `name`, `system`, etc.)
+- Generated proper slug fields from item names (e.g., "bead-from-anchor-root")
+- Analyzed working PF2e modules to identify correct item structure
+- Fixed field positioning to ensure proper UUID generation by Foundry
+
 ## [1.12.3] - 2025-08-30
 
 ### Fixed
