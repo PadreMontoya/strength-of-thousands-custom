@@ -2,7 +2,7 @@
   "id": "strength-of-thousands-custom",
   "title": "Strength of Thousands - Custom Content",
   "description": "Custom content for the Strength of Thousands Adventure Path, including NPCs, journals, and friendship beads for Book 2: Spoken on the Song Wind.",
-  "version": "1.12.5",
+  "version": "1.12.6",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -42,6 +42,7 @@
       "label": "Strength of Thousands Items",
       "path": "packs/items.db",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"

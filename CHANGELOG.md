@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.6] - 2025-08-30
+
+### Fixed
+- **UUID Generation**: Added `"system": "pf2e"` to pack definition to ensure proper system recognition
+- **Compendium Indexing**: Enhanced pack registration to force proper UUID generation by Foundry
+- **System Integration**: Explicitly declared pack as PF2e-compatible for better integration
+
+### Technical
+- **Pack Definition**: Added system field to items pack in module.json
+- **UUID Resolution**: Should resolve blank UUID issue by ensuring proper compendium indexing
+- **Index Rebuild**: Module disable/enable will now properly rebuild compendium index
+
+### Notes
+- **Restart Required**: Full Foundry restart recommended after update
+- **Cache Clear**: Clear browser cache (Ctrl+F5) after restart
+- **Module Toggle**: Disable/re-enable module to force pack reindexing if UUIDs still blank
+
 ## [1.12.5] - 2025-08-30
 
 ### Fixed
