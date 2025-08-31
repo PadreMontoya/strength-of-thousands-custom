@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.3] - 2025-08-30
+
+### Fixed
+- **UUID Generation**: Removed manual UUID fields to let Foundry VTT generate them automatically
+- **Compendium Browser Crash**: Fixed "MiniSearch: document does not have ID field 'uuid'" error
+- **Item Processing**: Resolved issue where UUID field was null in processed documents
+- **Pack Compatibility**: Ensured items work properly with PF2e system's compendium indexing
+
+### Technical
+- Removed all manual `uuid` fields from item database entries
+- Let Foundry VTT's automatic UUID generation handle item identification
+- Fixed compendium browser Equipment tab loading issues
+- Enhanced compatibility with PF2e system's MiniSearch indexing
+
 ## [1.12.2] - 2025-08-30
 
 ### Fixed
